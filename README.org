@@ -1,3 +1,3 @@
-# DFP WTHH Polling Data
+* DFP WTHH Polling Data
 
 This is some of my work exploring the data released by Data for Progress on the 2018 midterm elections.
