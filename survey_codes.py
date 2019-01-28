@@ -476,8 +476,8 @@ metadata_dict = {"votereg": {'question': 'Are you registered to vote?',
                                 '2': 'Not very important',
                                 '1': 'Not at all important'},
                  'LINKFATE': {'question': ('Please indicate the extent to which you agree with the following'
-                                           'statement: What happens generally to $raceval2 in this country '
-                                           'will have something to do with what happens in your life.'),
+                                           ' statement: What happens generally to $raceval2 in this country '
+                                           ' will have something to do with what happens in your life.'),
                               '1': 'Strongly agree',
                               '2': 'Somewhat agree',
                               '3': 'Neither agree nor disagree',
@@ -491,8 +491,8 @@ metadata_dict = {"votereg": {'question': 'Are you registered to vote?',
                              '4': 'No, probably not',
                              '5': 'No, definitely not'},
                  'DESERVE_poor': {'question': ('For each of the following groups, please say whether most people'
-                                               'in the group have more money than they deserve, less money than they deserve, or'
-                                               'about the right amount of money. Poor people'),
+                                               ' in the group have more money than they deserve, less money than they deserve, or'
+                                               ' about the right amount of money. Poor people'),
                                   '1': 'A lot more money than they deserve',
                                   '2': 'Somewhat more money than they deserve',
                                   '3': 'Slightly more money than they deserve',
@@ -501,8 +501,8 @@ metadata_dict = {"votereg": {'question': 'Are you registered to vote?',
                                   '6': 'Somewhat less money than they deserve',
                                   '7': 'A lot less money than they deserve'},
                  'DESERVE_rich': {'question': ('For each of the following groups, please say whether most people'
-                                               'in the group have more money than they deserve, less money than they deserve, or'
-                                               'about the right amount of money. Rich people'),
+                                               ' in the group have more money than they deserve, less money than they deserve, or'
+                                               ' about the right amount of money. Rich people'),
                                   '1': 'A lot more money than they deserve',
                                   '2': 'Somewhat more money than they deserve',
                                   '3': 'Slightly more money than they deserve',
@@ -511,8 +511,8 @@ metadata_dict = {"votereg": {'question': 'Are you registered to vote?',
                                   '6': 'Somewhat less money than they deserve',
                                   '7': 'A lot less money than they deserve'},
                  'CUSTOMS': {'question': ('Please indicate the extent to which you agree with each of the following'
-                                          'statements. The growing number of newcomers from other countries threatens'
-                                          'traditional American customs and values.'),
+                                          ' statements. The growing number of newcomers from other countries threatens'
+                                          ' traditional American customs and values.'),
                              '1': 'Strongly agree',
                              '2': 'Somewhat agree',
                              '3': 'Neither agree nor disagree',
@@ -520,8 +520,8 @@ metadata_dict = {"votereg": {'question': 'Are you registered to vote?',
                              '5': 'Strongly disagree',
                              '6': 'Not sure'},
                  'SPEAK': {'question': ('Please indicate the extent to which you agree with each of the following'
-                                        'statements. It bothers me when I come in contact with immigrants who speak little'
-                                        'or no English.'),
+                                        ' statements. It bothers me when I come in contact with immigrants who speak little'
+                                        ' or no English.'),
                            '1': 'Strongly agree',
                            '2': 'Somewhat agree',
                            '3': 'Neither agree nor disagree',
@@ -529,11 +529,11 @@ metadata_dict = {"votereg": {'question': 'Are you registered to vote?',
                            '5': 'Strongly disagree',
                            '6': 'Not sure'},
                  'ENRICH': {'question': ('As you may know, Census projections show that by 2043 African'
-                                         'Americans, Latinos, Asians, and other mixed racial and ethnic groups will together'
-                                         'be a majority of the population. Thinking about the likely impact of this coming'
-                                         'demographic change, how much do you agree or disagree with each of these'
-                                         'statements? Americans will learn more from one another and be enriched by'
-                                         'exposure to many different cultures.'),
+                                         ' Americans, Latinos, Asians, and other mixed racial and ethnic groups will together'
+                                         ' be a majority of the population. Thinking about the likely impact of this coming'
+                                         ' demographic change, how much do you agree or disagree with each of these'
+                                         ' statements? Americans will learn more from one another and be enriched by'
+                                         ' exposure to many different cultures.'),
                             '1': 'Strongly agree',
                             '2': 'Somewhat agree',
                             '3': 'Neither agree nor disagree',
@@ -541,10 +541,10 @@ metadata_dict = {"votereg": {'question': 'Are you registered to vote?',
                             '5': 'Strongly disagree',
                             '6': 'Not sure'},
                  'SERVICES': {'question': ('As you may know, Census projections show that by 2043 African'
-                                           'Americans, Latinos, Asians, and other mixed racial and ethnic groups will together'
-                                           '11be a majority of the population. Thinking about the likely impact of this coming'
-                                           'demographic change, how much do you agree or disagree with each of these'
-                                           'statements? There will be too many demands on government services.'),
+                                           ' Americans, Latinos, Asians, and other mixed racial and ethnic groups will together'
+                                           ' be a majority of the population. Thinking about the likely impact of this coming'
+                                           ' demographic change, how much do you agree or disagree with each of these'
+                                           ' statements? There will be too many demands on government services.'),
                               '1': 'Strongly agree',
                               '2': 'Somewhat agree',
                               '3': 'Neither agree nor disagree',
@@ -552,10 +552,10 @@ metadata_dict = {"votereg": {'question': 'Are you registered to vote?',
                               '5': 'Strongly disagree',
                               '6': 'Not sure'},
                  'JOBS': {'question': ('As you may know, Census projections show that by 2043 African Americans,'
-                                       'Latinos, Asians, and other mixed racial and ethnic groups will together be a majority'
-                                       'of the population. Thinking about the likely impact of this coming demographic'
-                                       'change, how much do you agree or disagree with each of these statements? There'
-                                       'will not be enough jobs for everybody.'),
+                                       ' Latinos, Asians, and other mixed racial and ethnic groups will together be a majority'
+                                       ' of the population. Thinking about the likely impact of this coming demographic'
+                                       ' change, how much do you agree or disagree with each of these statements? There'
+                                       ' will not be enough jobs for everybody.'),
                           '1': 'Strongly agree',
                           '2': 'Somewhat agree',
                           '3': 'Neither agree nor disagree',
@@ -572,8 +572,8 @@ metadata_dict = {"votereg": {'question': 'Are you registered to vote?',
                  'fear_of_demographic_change_scaled': {'question': ('(recode) Sum of fear_of_demographic_change_raw '
                                                                     'divided by its maximum value.')},
                  'FLAG': {'question': 'Which of the following is closer to your view regarding the Confederate flag?',
-                          '1': 'The Confederate flag is mostly a symbol of slavery and white supremacy',
-                          '2': 'The Confederate flag is mostly a symbol of Southern heritage and culture',
+                          '1': 'Slavery and White Supremacy',
+                          '2': 'Southern Heritage and Culture',
                           '3': 'Don\'t know'},
                  'PATH': {'question': ('Please indicate whether you favor or oppose each of the '
                                        'following proposals addressing immigration: Provide a path to '
@@ -596,8 +596,8 @@ metadata_dict = {"votereg": {'question': 'Are you registered to vote?',
                             '5': 'Strongly oppose',
                             '6': 'Don\'t know'},
                  'DEPORT': {'question': ('Please indicate whether you favor or oppose each of the following'
-                                         'proposals addressing immigration: Deport undocumented immigrants to their'
-                                         'native countries.'),
+                                         ' proposals addressing immigration: Deport undocumented immigrants to their'
+                                         ' native countries.'),
                             '1': 'Strongly support',
                             '2': 'Somewhat support',
                             '3': 'Neither support nor oppose',
@@ -635,7 +635,7 @@ metadata_dict = {"votereg": {'question': 'Are you registered to vote?',
                                               '4': 'Somewhat disagree',
                                               '5': 'Strongly disagree'},
                  'REMARKS': {'question': ('Please indicate the extent to which you agree with the following'
-                                          'statements: Most women interpret innocent remarks or acts as being sexist.'),
+                                          ' statements: Most women interpret innocent remarks or acts as being sexist.'),
                              '1': 'Strongly agree',
                              '2': 'Somewhat agree',
                              '3': 'Neither agree nor disagree',
@@ -643,7 +643,7 @@ metadata_dict = {"votereg": {'question': 'Are you registered to vote?',
                              '5': 'Strongly disagree',
                              '6': 'Don\'t know'},
                  'OFFEND': {'question': ('Please indicate the extent to which you agree with the following'
-                                         'statements: Women are too easily offended.'),
+                                         ' statements: Women are too easily offended.'),
                             '1': 'Strongly agree',
                             '2': 'Somewhat agree',
                             '3': 'Neither agree nor disagree',
@@ -651,7 +651,7 @@ metadata_dict = {"votereg": {'question': 'Are you registered to vote?',
                             '5': 'Strongly disagree',
                             '6': 'Don\'t know'},
                  'APPRECIATE': {'question': ('Please indicate the extent to which you agree with the following'
-                                             'statements: Most women fail to appreciate fully all that men do for them.'),
+                                             ' statements: Most women fail to appreciate fully all that men do for them.'),
                                 '1': 'Strongly agree',
                                 '2': 'Somewhat agree',
                                 '3': 'Neither agree nor disagree',
@@ -679,8 +679,8 @@ metadata_dict = {"votereg": {'question': 'Are you registered to vote?',
                                                               'on the scale between the two characteristics. '
                                                               '1 = Can make decisions easily; 5 = Has difficulty making decisions')},
                  'POP_1': {'question': ('Please indicate the extent to which you agree with the following statement:'
-                                        'It doesn\'t really matter who you vote for because the rich control both political'
-                                        'parties.'),
+                                        ' It doesn\'t really matter who you vote for because the rich control both political'
+                                        ' parties.'),
                            '1': 'Strongly agree',
                            '2': 'Somewhat agree',
                            '3': 'Neither agree nor disagree',
@@ -688,7 +688,7 @@ metadata_dict = {"votereg": {'question': 'Are you registered to vote?',
                            '5': 'Strongly disagree',
                            '6': 'Not sure'},
                  'POP_2': {'question': ('Please indicate the extent to which you agree with the following statement:'
-                                        'The system is stacked against people like me.'),
+                                        ' The system is stacked against people like me.'),
                            '1': 'Strongly agree',
                            '2': 'Somewhat agree',
                            '3': 'Neither agree nor disagree',
@@ -696,8 +696,8 @@ metadata_dict = {"votereg": {'question': 'Are you registered to vote?',
                            '5': 'Strongly disagree',
                            '6': 'Not sure'},
                  'POP_3': {'question': ('Please indicate the extent to which you agree with the following statement:'
-                                        'I\'d rather put my trust in the wisdom of ordinary people than in the opinions of'
-                                        'experts and intellectuals.'),
+                                        ' I\'d rather put my trust in the wisdom of ordinary people than in the opinions of'
+                                        ' experts and intellectuals.'),
                            '1': 'Strongly agree',
                            '2': 'Somewhat agree',
                            '3': 'Neither agree nor disagree',
@@ -730,7 +730,7 @@ metadata_dict = {"votereg": {'question': 'Are you registered to vote?',
                              '5': 'Strongly oppose',
                              '6': 'Not sure'},
                  'PUBLICINT': {'question': ('Would you support or oppose the creation of a publicly-owned Internet'
-                                            'company to fill coverage gaps in rural, urban, or remote areas that '
+                                            ' company to fill coverage gaps in rural, urban, or remote areas that '
                                             'currently lack robust Internet access?'),
                                '1': 'Strongly support',
                                '2': 'Somewhat support',
@@ -755,7 +755,7 @@ metadata_dict = {"votereg": {'question': 'Are you registered to vote?',
                             '5': 'Strongly oppose',
                             '6': 'Not sure'},
                  'PUBLICGEN': {'question': ('Would you support or oppose having the government produce'
-                                            'generic versions of life-saving drugs, even if it required'
+                                            ' generic versions of life-saving drugs, even if it required'
                                             ' revoking patents held by pharmaceutical companies?'),
                                '1': 'Strongly support',
                                '2': 'Somewhat support',
@@ -764,8 +764,8 @@ metadata_dict = {"votereg": {'question': 'Are you registered to vote?',
                                '5': 'Strongly oppose',
                                '6': 'Not sure'},
                  'BOND': {'question': ('Would you support or oppose giving every American a $5,000 savings'
-                                       'account at birth that they can access when they turn 18, paid for by raising taxes on'
-                                       'estates worth $10,000,000?'),
+                                       ' account at birth that they can access when they turn 18, paid for by raising taxes on'
+                                       ' estates worth $10,000,000?'),
                           '1': 'Strongly support',
                           '2': 'Somewhat support',
                           '3': 'Neither support nor oppose',
@@ -773,9 +773,9 @@ metadata_dict = {"votereg": {'question': 'Are you registered to vote?',
                           '5': 'Strongly oppose',
                           '6': 'Not sure'},
                  'FREECOLL': {'question': ('Would you support or oppose a law that would raise taxes on income'
-                                           'in excess of $200,000 per year by 5 percent in order to cover college tuition for all'
-                                           'students, while capping the rise in tuition at the rate of inflation for all colleges'
-                                           'accepting such funding?'),
+                                           ' in excess of $200,000 per year by 5 percent in order to cover college tuition for all'
+                                           ' students, while capping the rise in tuition at the rate of inflation for all colleges'
+                                           ' accepting such funding?'),
                               '1': 'Strongly support',
                               '2': 'Somewhat support',
                               '3': 'Neither support nor oppose',
@@ -790,8 +790,8 @@ metadata_dict = {"votereg": {'question': 'Are you registered to vote?',
                             '5': 'Strongly oppose',
                             '6': 'Not sure'},
                  'AVR': {'question': ('Would you support or oppose a policy where all eligible US citizens would be'
-                                      'automatically registered to vote (unless they opt out) when applying for licenses and'
-                                      'other IDs at DMVs, Medicaid offices, healthcare exchanges and other public agencies?'),
+                                      ' automatically registered to vote (unless they opt out) when applying for licenses and'
+                                      ' other IDs at DMVs, Medicaid offices, healthcare exchanges and other public agencies?'),
                          '1': 'Strongly support',
                          '2': 'Somewhat support',
                          '3': 'Neither support nor oppose',
@@ -799,7 +799,7 @@ metadata_dict = {"votereg": {'question': 'Are you registered to vote?',
                          '5': 'Strongly oppose',
                          '6': 'Not sure'},
                  'M4A': {'question': ('Would you support or oppose expanding Medicare such that it becomes the'
-                                      'main health insurance provider for all Americans?'),
+                                      ' main health insurance provider for all Americans?'),
                          '1': 'Strongly support',
                          '2': 'Somewhat support',
                          '3': 'Neither support nor oppose',
@@ -807,8 +807,8 @@ metadata_dict = {"votereg": {'question': 'Are you registered to vote?',
                          '5': 'Strongly oppose',
                          '6': 'Not sure'},
                  'MARREP': {'question': ('In states where marijuana is legal, would you support or oppose requiring'
-                                         'that any tax revenues collected from its sale be re-invested in communities'
-                                         'disproportionately affected by the War on Drugs?'),
+                                         ' that any tax revenues collected from its sale be re-invested in communities'
+                                         ' disproportionately affected by the War on Drugs?'),
                             '1': 'Strongly support',
                             '2': 'Somewhat support',
                             '3': 'Neither support nor oppose',
@@ -816,8 +816,8 @@ metadata_dict = {"votereg": {'question': 'Are you registered to vote?',
                             '5': 'Strongly oppose',
                             '6': 'Not sure'},
                  'MARAM': {'question': ('Some people are currently incarcerated for marijuana-related offenses in'
-                                        'states where marijuana has since been legalized. Do you support or oppose'
-                                        'releasing these people from prison?'),
+                                        ' states where marijuana has since been legalized. Do you support or oppose'
+                                        ' releasing these people from prison?'),
                            '1': 'Strongly support',
                            '2': 'Somewhat support',
                            '3': 'Neither support nor oppose',
@@ -832,8 +832,8 @@ metadata_dict = {"votereg": {'question': 'Are you registered to vote?',
                             '5': 'Strongly oppose',
                             '6': 'Not sure'},
                  'YEMEN': {'question': ('The United States is currently providing military equipment and logistical'
-                                        'support for Saudi Arabia\'s intervention in the civil war in Yemen. Would you support'
-                                        'or oppose ending US involvement in the conflict?'),
+                                        ' support for Saudi Arabia\'s intervention in the civil war in Yemen. Would you support'
+                                        ' or oppose ending US involvement in the conflict?'),
                            '1': 'Strongly support',
                            '2': 'Somewhat support',
                            '3': 'Neither support nor oppose',
@@ -856,7 +856,7 @@ metadata_dict = {"votereg": {'question': 'Are you registered to vote?',
                           '5': 'It should be less difficult to buy all types of guns',
                           '6': 'Not sure'},
                  'POLCORRECT': {'question': ('There\'s been a lot of talk lately about "political correctness." Some'
-                                             'people think that the way people talk needs to change with the times to be more '
+                                             ' people think that the way people talk needs to change with the times to be more '
                                              'sensitive to people from different backgrounds. Others think that this has already '
                                              'gone too far and many people are just too easily offended. Which is closer to your '
                                              'opinion?'),

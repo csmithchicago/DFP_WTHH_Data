@@ -6,7 +6,7 @@
         "4": "Somewhat disagree",
         "5": "Strongly disagree",
         "6": "Don't know",
-        "question": "Please indicate the extent to which you agree with the followingstatements: Most women fail to appreciate fully all that men do for them."
+        "question": "Please indicate the extent to which you agree with the following statements: Most women fail to appreciate fully all that men do for them."
     },
     "AVR": {
         "1": "Strongly support",
@@ -15,7 +15,7 @@
         "4": "Somewhat oppose",
         "5": "Strongly oppose",
         "6": "Not sure",
-        "question": "Would you support or oppose a policy where all eligible US citizens would beautomatically registered to vote (unless they opt out) when applying for licenses andother IDs at DMVs, Medicaid offices, healthcare exchanges and other public agencies?"
+        "question": "Would you support or oppose a policy where all eligible US citizens would be automatically registered to vote (unless they opt out) when applying for licenses and other IDs at DMVs, Medicaid offices, healthcare exchanges and other public agencies?"
     },
     "BAIL_item": {
         "1": "Strongly support",
@@ -33,7 +33,7 @@
         "4": "Somewhat oppose",
         "5": "Strongly oppose",
         "6": "Not sure",
-        "question": "Would you support or oppose giving every American a $5,000 savingsaccount at birth that they can access when they turn 18, paid for by raising taxes onestates worth $10,000,000?"
+        "question": "Would you support or oppose giving every American a $5,000 savings account at birth that they can access when they turn 18, paid for by raising taxes on estates worth $10,000,000?"
     },
     "BORDER": {
         "1": "Strongly support",
@@ -56,7 +56,7 @@
         "4": "Somewhat disagree",
         "5": "Strongly disagree",
         "6": "Not sure",
-        "question": "Please indicate the extent to which you agree with each of the followingstatements. The growing number of newcomers from other countries threatenstraditional American customs and values."
+        "question": "Please indicate the extent to which you agree with each of the following statements. The growing number of newcomers from other countries threatens traditional American customs and values."
     },
     "DEPORT": {
         "1": "Strongly support",
@@ -65,7 +65,7 @@
         "4": "Somewhat oppose",
         "5": "Strongly oppose",
         "6": "Don't know",
-        "question": "Please indicate whether you favor or oppose each of the followingproposals addressing immigration: Deport undocumented immigrants to theirnative countries."
+        "question": "Please indicate whether you favor or oppose each of the following proposals addressing immigration: Deport undocumented immigrants to their native countries."
     },
     "DESERVE_poor": {
         "1": "A lot more money than they deserve",
@@ -75,7 +75,7 @@
         "5": "Slightly less money than they deserve",
         "6": "Somewhat less money than they deserve",
         "7": "A lot less money than they deserve",
-        "question": "For each of the following groups, please say whether most peoplein the group have more money than they deserve, less money than they deserve, orabout the right amount of money. Poor people"
+        "question": "For each of the following groups, please say whether most people in the group have more money than they deserve, less money than they deserve, or about the right amount of money. Poor people"
     },
     "DESERVE_rich": {
         "1": "A lot more money than they deserve",
@@ -85,7 +85,7 @@
         "5": "Slightly less money than they deserve",
         "6": "Somewhat less money than they deserve",
         "7": "A lot less money than they deserve",
-        "question": "For each of the following groups, please say whether most peoplein the group have more money than they deserve, less money than they deserve, orabout the right amount of money. Rich people"
+        "question": "For each of the following groups, please say whether most people in the group have more money than they deserve, less money than they deserve, or about the right amount of money. Rich people"
     },
     "EMPATHY": {
         "1": "Strongly agree",
@@ -103,7 +103,7 @@
         "4": "Somewhat disagree",
         "5": "Strongly disagree",
         "6": "Not sure",
-        "question": "As you may know, Census projections show that by 2043 AfricanAmericans, Latinos, Asians, and other mixed racial and ethnic groups will togetherbe a majority of the population. Thinking about the likely impact of this comingdemographic change, how much do you agree or disagree with each of thesestatements? Americans will learn more from one another and be enriched byexposure to many different cultures."
+        "question": "As you may know, Census projections show that by 2043 African Americans, Latinos, Asians, and other mixed racial and ethnic groups will together be a majority of the population. Thinking about the likely impact of this coming demographic change, how much do you agree or disagree with each of these statements? Americans will learn more from one another and be enriched by exposure to many different cultures."
     },
     "FAVORS": {
         "1": "Strongly agree",
@@ -123,8 +123,8 @@
         "question": "Thinking about your household's finances today, could you cover a $400 emergency expense without borrowing it or taking on debt?"
     },
     "FLAG": {
-        "1": "The Confederate flag is mostly a symbol of slavery and white supremacy",
-        "2": "The Confederate flag is mostly a symbol of Southern heritage and culture",
+        "1": "Slavery and White Supremacy",
+        "2": "Southern Heritage and Culture",
         "3": "Don't know",
         "question": "Which of the following is closer to your view regarding the Confederate flag?"
     },
@@ -135,7 +135,7 @@
         "4": "Somewhat oppose",
         "5": "Strongly oppose",
         "6": "Not sure",
-        "question": "Would you support or oppose a law that would raise taxes on incomein excess of $200,000 per year by 5 percent in order to cover college tuition for allstudents, while capping the rise in tuition at the rate of inflation for all collegesaccepting such funding?"
+        "question": "Would you support or oppose a law that would raise taxes on income in excess of $200,000 per year by 5 percent in order to cover college tuition for all students, while capping the rise in tuition at the rate of inflation for all colleges accepting such funding?"
     },
     "FT_Blacks": {
         "question": "Blacks Rate your feeling toward this group from zero (very cold or negative) to 100 (very warm or positive)."
@@ -243,7 +243,7 @@
         "4": "Somewhat disagree",
         "5": "Strongly disagree",
         "6": "Not sure",
-        "question": "As you may know, Census projections show that by 2043 African Americans,Latinos, Asians, and other mixed racial and ethnic groups will together be a majorityof the population. Thinking about the likely impact of this coming demographicchange, how much do you agree or disagree with each of these statements? Therewill not be enough jobs for everybody."
+        "question": "As you may know, Census projections show that by 2043 African Americans, Latinos, Asians, and other mixed racial and ethnic groups will together be a majority of the population. Thinking about the likely impact of this coming demographic change, how much do you agree or disagree with each of these statements? There will not be enough jobs for everybody."
     },
     "LAZY_Blacks": {
         "1": "Very lazy",
@@ -281,7 +281,7 @@
         "3": "Neither agree nor disagree",
         "4": "Somewhat disagree",
         "5": "Strongly disagree",
-        "question": "Please indicate the extent to which you agree with the followingstatement: What happens generally to $raceval2 in this country will have something to do with what happens in your life."
+        "question": "Please indicate the extent to which you agree with the following statement: What happens generally to $raceval2 in this country  will have something to do with what happens in your life."
     },
     "M4A": {
         "1": "Strongly support",
@@ -290,7 +290,7 @@
         "4": "Somewhat oppose",
         "5": "Strongly oppose",
         "6": "Not sure",
-        "question": "Would you support or oppose expanding Medicare such that it becomes themain health insurance provider for all Americans?"
+        "question": "Would you support or oppose expanding Medicare such that it becomes the main health insurance provider for all Americans?"
     },
     "MARAM": {
         "1": "Strongly support",
@@ -299,7 +299,7 @@
         "4": "Somewhat oppose",
         "5": "Strongly oppose",
         "6": "Not sure",
-        "question": "Some people are currently incarcerated for marijuana-related offenses instates where marijuana has since been legalized. Do you support or opposereleasing these people from prison?"
+        "question": "Some people are currently incarcerated for marijuana-related offenses in states where marijuana has since been legalized. Do you support or oppose releasing these people from prison?"
     },
     "MARLEG": {
         "1": "Strongly support",
@@ -317,7 +317,7 @@
         "4": "Somewhat oppose",
         "5": "Strongly oppose",
         "6": "Not sure",
-        "question": "In states where marijuana is legal, would you support or oppose requiringthat any tax revenues collected from its sale be re-invested in communitiesdisproportionately affected by the War on Drugs?"
+        "question": "In states where marijuana is legal, would you support or oppose requiring that any tax revenues collected from its sale be re-invested in communities disproportionately affected by the War on Drugs?"
     },
     "NDEMS": {
         "question": "About what percentage of the people who live in your neighborhood doyou think are Democrats? (Enter a whole number between 0 and 100)"
@@ -370,7 +370,7 @@
         "4": "Somewhat disagree",
         "5": "Strongly disagree",
         "6": "Don't know",
-        "question": "Please indicate the extent to which you agree with the followingstatements: Women are too easily offended."
+        "question": "Please indicate the extent to which you agree with the following statements: Women are too easily offended."
     },
     "PATH": {
         "1": "Strongly support",
@@ -386,7 +386,7 @@
         "2": "The way people talk needs to change a little",
         "3": "People are a little too easily offended",
         "4": "People are much too easily offended",
-        "question": "There's been a lot of talk lately about \"political correctness.\" Somepeople think that the way people talk needs to change with the times to be more sensitive to people from different backgrounds. Others think that this has already gone too far and many people are just too easily offended. Which is closer to your opinion?"
+        "question": "There's been a lot of talk lately about \"political correctness.\" Some people think that the way people talk needs to change with the times to be more sensitive to people from different backgrounds. Others think that this has already gone too far and many people are just too easily offended. Which is closer to your opinion?"
     },
     "POLFEE": {
         "1": "Strongly support",
@@ -404,7 +404,7 @@
         "4": "Somewhat disagree",
         "5": "Strongly disagree",
         "6": "Not sure",
-        "question": "Please indicate the extent to which you agree with the following statement:It doesn't really matter who you vote for because the rich control both politicalparties."
+        "question": "Please indicate the extent to which you agree with the following statement: It doesn't really matter who you vote for because the rich control both political parties."
     },
     "POP_2": {
         "1": "Strongly agree",
@@ -413,7 +413,7 @@
         "4": "Somewhat disagree",
         "5": "Strongly disagree",
         "6": "Not sure",
-        "question": "Please indicate the extent to which you agree with the following statement:The system is stacked against people like me."
+        "question": "Please indicate the extent to which you agree with the following statement: The system is stacked against people like me."
     },
     "POP_3": {
         "1": "Strongly agree",
@@ -422,7 +422,7 @@
         "4": "Somewhat disagree",
         "5": "Strongly disagree",
         "6": "Not sure",
-        "question": "Please indicate the extent to which you agree with the following statement:I'd rather put my trust in the wisdom of ordinary people than in the opinions ofexperts and intellectuals."
+        "question": "Please indicate the extent to which you agree with the following statement: I'd rather put my trust in the wisdom of ordinary people than in the opinions of experts and intellectuals."
     },
     "PUBLICGEN": {
         "1": "Strongly support",
@@ -431,7 +431,7 @@
         "4": "Somewhat oppose",
         "5": "Strongly oppose",
         "6": "Not sure",
-        "question": "Would you support or oppose having the government producegeneric versions of life-saving drugs, even if it required revoking patents held by pharmaceutical companies?"
+        "question": "Would you support or oppose having the government produce generic versions of life-saving drugs, even if it required revoking patents held by pharmaceutical companies?"
     },
     "PUBLICINT": {
         "1": "Strongly support",
@@ -440,7 +440,7 @@
         "4": "Somewhat oppose",
         "5": "Strongly oppose",
         "6": "Not sure",
-        "question": "Would you support or oppose the creation of a publicly-owned Internetcompany to fill coverage gaps in rural, urban, or remote areas that currently lack robust Internet access?"
+        "question": "Would you support or oppose the creation of a publicly-owned Internet company to fill coverage gaps in rural, urban, or remote areas that currently lack robust Internet access?"
     },
     "RACE_IDENT": {
         "1": "Not at all important",
@@ -456,7 +456,7 @@
         "4": "Somewhat disagree",
         "5": "Strongly disagree",
         "6": "Don't know",
-        "question": "Please indicate the extent to which you agree with the followingstatements: Most women interpret innocent remarks or acts as being sexist."
+        "question": "Please indicate the extent to which you agree with the following statements: Most women interpret innocent remarks or acts as being sexist."
     },
     "SERVICES": {
         "1": "Strongly agree",
@@ -465,7 +465,7 @@
         "4": "Somewhat disagree",
         "5": "Strongly disagree",
         "6": "Not sure",
-        "question": "As you may know, Census projections show that by 2043 AfricanAmericans, Latinos, Asians, and other mixed racial and ethnic groups will together11be a majority of the population. Thinking about the likely impact of this comingdemographic change, how much do you agree or disagree with each of thesestatements? There will be too many demands on government services."
+        "question": "As you may know, Census projections show that by 2043 African Americans, Latinos, Asians, and other mixed racial and ethnic groups will together be a majority of the population. Thinking about the likely impact of this coming demographic change, how much do you agree or disagree with each of these statements? There will be too many demands on government services."
     },
     "SOCIALDOMINANCE_EQUALIDEAL": {
         "1": "Strongly agree",
@@ -600,7 +600,7 @@
         "4": "Somewhat disagree",
         "5": "Strongly disagree",
         "6": "Not sure",
-        "question": "Please indicate the extent to which you agree with each of the followingstatements. It bothers me when I come in contact with immigrants who speak littleor no English."
+        "question": "Please indicate the extent to which you agree with each of the following statements. It bothers me when I come in contact with immigrants who speak little or no English."
     },
     "SYSTEM": {
         "1": "Strongly agree",
@@ -653,7 +653,7 @@
         "4": "Somewhat oppose",
         "5": "Strongly oppose",
         "6": "Not sure",
-        "question": "The United States is currently providing military equipment and logisticalsupport for Saudi Arabia's intervention in the civil war in Yemen. Would you supportor oppose ending US involvement in the conflict?"
+        "question": "The United States is currently providing military equipment and logistical support for Saudi Arabia's intervention in the civil war in Yemen. Would you support or oppose ending US involvement in the conflict?"
     },
     "age5": {
         "1": "18-29",
