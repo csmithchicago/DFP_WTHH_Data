@@ -630,8 +630,8 @@ FT_Whites | Whites Rate your feeling toward this group from zero (very cold or n
 98      71
 88      60
 97      58
-76      57
 77      57
+76      57
 89      51
 52      50
 70      49
@@ -644,16 +644,16 @@ FT_Whites | Whites Rate your feeling toward this group from zero (very cold or n
 71      42
 60      35
 82      34
-96      33
 73      33
+96      33
 87      31
 56      30
-86      29
 74      29
+86      29
 49      29
 83      27
-92      27
 69      27
+92      27
 66      24
 65      24
 93      22
@@ -661,59 +661,59 @@ FT_Whites | Whites Rate your feeling toward this group from zero (very cold or n
 40      20
 67      19
 41      18
-61      16
-55      16
 59      16
+55      16
+61      16
 68      15
-62      13
 48      13
+62      13
 44      12
 54      11
 47      11
-46      10
 57      10
+46      10
+64       9
 30       9
 26       9
-64       9
 31       8
 45       8
-35       7
 58       7
 25       7
 28       7
+35       7
 27       6
 4        6
-33       5
 39       5
+33       5
 0        5
-1        4
 8        4
 34       4
+1        4
 32       4
 14       4
-20       3
-42       3
 11       3
-37       3
+42       3
 2        3
 29       3
-6        2
+37       3
+20       3
 15       2
-7        2
-23       2
-9        2
 43       2
-36       2
+23       2
 24       2
+36       2
 10       2
-19       2
-38       2
 3        2
 5        2
 22       2
+19       2
+6        2
+38       2
+9        2
+7        2
+12       1
 16       1
 13       1
-12       1
 
 
 FT_Blacks | Blacks Rate your feeling toward this group from zero (very cold or negative) to 100 (very warm or positive).
@@ -744,77 +744,77 @@ FT_Blacks | Blacks Rate your feeling toward this group from zero (very cold or n
 60      40
 72      39
 69      38
-82      35
 94      35
+82      35
 96      34
 74      33
 61      32
-53      31
 66      31
+53      31
 52      30
-83      29
 71      29
+83      29
 86      28
 92      28
 93      27
 55      26
 84      26
-56      24
 65      24
+56      24
 68      23
 59      21
-49      20
-87      20
 48      20
+87      20
+49      20
 54      18
-62      17
 63      17
+62      17
 45      16
 47      16
 67      16
 40      15
-31      14
 73      14
+31      14
 46      13
+64      12
 30      12
 41      12
-64      12
 58      11
 38      11
 27      10
 25       9
-39       8
 42       8
+39       8
 24       7
 28       7
 57       6
 20       5
-37       5
 1        5
+37       5
 32       4
-44       4
-11       4
 29       4
+11       4
 3        4
 6        4
+44       4
+5        3
 10       3
 22       3
-34       3
-36       3
-5        3
 0        3
-43       2
-35       2
+36       3
+34       3
 12       2
-21       1
-33       1
+35       2
+43       2
+14       1
 16       1
 4        1
-13       1
+33       1
+15       1
 17       1
 9        1
-15       1
-14       1
+21       1
+13       1
 
 
 FT_Latinos | Latinos Rate your feeling toward this group from zero (very cold or negative) to 100 (very warm or positive).
@@ -840,14 +840,14 @@ FT_Latinos | Latinos Rate your feeling toward this group from zero (very cold or
 76      51
 53      51
 89      49
-88      48
 60      48
+88      48
 85      47
-52      40
 94      40
+52      40
 59      38
-97      37
 72      37
+97      37
 84      36
 86      34
 69      33
@@ -855,19 +855,19 @@ FT_Latinos | Latinos Rate your feeling toward this group from zero (very cold or
 71      32
 74      32
 65      28
-82      28
 96      28
 83      28
 66      28
+82      28
 87      27
+56      26
 92      26
 93      26
-56      26
 73      26
 49      22
 63      20
-55      20
 67      20
+55      20
 62      19
 64      19
 41      19
@@ -879,45 +879,45 @@ FT_Latinos | Latinos Rate your feeling toward this group from zero (very cold or
 40      13
 25      12
 57      11
-45      11
 31      11
-28      10
+45      11
 44      10
+28      10
 27      10
 20       9
-30       8
 46       8
-26       6
+30       8
 33       6
+26       6
 11       6
 32       5
 39       5
+3        5
 42       5
 29       5
-3        5
-9        4
-36       4
-16       4
-5        4
-38       4
 21       4
+36       4
 15       4
+9        4
+5        4
+16       4
+38       4
 43       3
-0        3
 6        3
-7        2
-35       2
-2        2
-1        2
-12       2
-10       2
-34       2
+0        3
 37       2
 24       2
-23       1
-18       1
-8        1
+2        2
+7        2
+1        2
+35       2
+12       2
+34       2
+10       2
 4        1
+23       1
+8        1
+18       1
 22       1
 
 
@@ -987,8 +987,8 @@ Somewhat intelligent                      737
 Very intelligent                          180
 Somewhat unintelligent                    129
 ?                                          39
-Very unintelligent                         22
 Unintelligent                              22
+Very unintelligent                         22
 
 
 INTELLIGENT_Latinos | How intelligent or unintelligent is each group? Latinos
@@ -1016,7 +1016,7 @@ Not at all important    553
 ?                        16
 
 
-LINKFATE | Please indicate the extent to which you agree with the followingstatement: What happens generally to $raceval2 in this country will have something to do with what happens in your life.
+LINKFATE | Please indicate the extent to which you agree with the following statement: What happens generally to $raceval2 in this country  will have something to do with what happens in your life.
 
 *-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
 
@@ -1040,7 +1040,7 @@ Not sure               175
 ?                       15
 
 
-DESERVE_poor | For each of the following groups, please say whether most peoplein the group have more money than they deserve, less money than they deserve, orabout the right amount of money. Poor people
+DESERVE_poor | For each of the following groups, please say whether most people in the group have more money than they deserve, less money than they deserve, or about the right amount of money. Poor people
 
 *-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
 
@@ -1054,7 +1054,7 @@ Somewhat more money than they deserve      42
 A lot more money than they deserve         34
 
 
-DESERVE_rich | For each of the following groups, please say whether most peoplein the group have more money than they deserve, less money than they deserve, orabout the right amount of money. Rich people
+DESERVE_rich | For each of the following groups, please say whether most people in the group have more money than they deserve, less money than they deserve, or about the right amount of money. Rich people
 
 *-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
 
@@ -1068,7 +1068,7 @@ Somewhat less money than they deserve      26
 Slightly less money than they deserve      22
 
 
-CUSTOMS | Please indicate the extent to which you agree with each of the followingstatements. The growing number of newcomers from other countries threatenstraditional American customs and values.
+CUSTOMS | Please indicate the extent to which you agree with each of the following statements. The growing number of newcomers from other countries threatens traditional American customs and values.
 
 *-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
 
@@ -1081,7 +1081,7 @@ Not sure                        45
 ?                               15
 
 
-SPEAK | Please indicate the extent to which you agree with each of the followingstatements. It bothers me when I come in contact with immigrants who speak littleor no English.
+SPEAK | Please indicate the extent to which you agree with each of the following statements. It bothers me when I come in contact with immigrants who speak little or no English.
 
 *-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
 
@@ -1094,7 +1094,7 @@ Not sure                       30
 ?                              15
 
 
-ENRICH | As you may know, Census projections show that by 2043 AfricanAmericans, Latinos, Asians, and other mixed racial and ethnic groups will togetherbe a majority of the population. Thinking about the likely impact of this comingdemographic change, how much do you agree or disagree with each of thesestatements? Americans will learn more from one another and be enriched byexposure to many different cultures.
+ENRICH | As you may know, Census projections show that by 2043 African Americans, Latinos, Asians, and other mixed racial and ethnic groups will together be a majority of the population. Thinking about the likely impact of this coming demographic change, how much do you agree or disagree with each of these statements? Americans will learn more from one another and be enriched by exposure to many different cultures.
 
 *-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
 
@@ -1107,7 +1107,7 @@ Not sure                        58
 ?                                8
 
 
-SERVICES | As you may know, Census projections show that by 2043 AfricanAmericans, Latinos, Asians, and other mixed racial and ethnic groups will together11be a majority of the population. Thinking about the likely impact of this comingdemographic change, how much do you agree or disagree with each of thesestatements? There will be too many demands on government services.
+SERVICES | As you may know, Census projections show that by 2043 African Americans, Latinos, Asians, and other mixed racial and ethnic groups will together be a majority of the population. Thinking about the likely impact of this coming demographic change, how much do you agree or disagree with each of these statements? There will be too many demands on government services.
 
 *-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
 
@@ -1120,7 +1120,7 @@ Not sure                      106
 ?                              22
 
 
-JOBS | As you may know, Census projections show that by 2043 African Americans,Latinos, Asians, and other mixed racial and ethnic groups will together be a majorityof the population. Thinking about the likely impact of this coming demographicchange, how much do you agree or disagree with each of these statements? Therewill not be enough jobs for everybody.
+JOBS | As you may know, Census projections show that by 2043 African Americans, Latinos, Asians, and other mixed racial and ethnic groups will together be a majority of the population. Thinking about the likely impact of this coming demographic change, how much do you agree or disagree with each of these statements? There will not be enough jobs for everybody.
 
 *-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
 
@@ -1137,10 +1137,10 @@ FLAG | Which of the following is closer to your view regarding the Confederate f
 
 *-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
 
-The Confederate flag is mostly a symbol of Southern heritage and culture    1551
-The Confederate flag is mostly a symbol of slavery and white supremacy      1417
-Don't know                                                                   239
-?                                                                              8
+Southern Heritage and Culture    1551
+Slavery and White Supremacy      1417
+Don't know                        239
+?                                   8
 
 
 PATH | Please indicate whether you favor or oppose each of the following proposals addressing immigration: Provide a path to citizenship for some undocumented immigrants who agree to return to their home country for a period of time and pay substantial fines.
@@ -1169,7 +1169,7 @@ Don't know                      41
 ?                               15
 
 
-DEPORT | Please indicate whether you favor or oppose each of the followingproposals addressing immigration: Deport undocumented immigrants to theirnative countries.
+DEPORT | Please indicate whether you favor or oppose each of the following proposals addressing immigration: Deport undocumented immigrants to their native countries.
 
 *-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
 
@@ -1230,7 +1230,7 @@ Strongly agree                  58
 ?                               36
 
 
-REMARKS | Please indicate the extent to which you agree with the followingstatements: Most women interpret innocent remarks or acts as being sexist.
+REMARKS | Please indicate the extent to which you agree with the following statements: Most women interpret innocent remarks or acts as being sexist.
 
 *-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
 
@@ -1243,7 +1243,7 @@ Don't know                     85
 ?                              14
 
 
-OFFEND | Please indicate the extent to which you agree with the followingstatements: Women are too easily offended.
+OFFEND | Please indicate the extent to which you agree with the following statements: Women are too easily offended.
 
 *-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
 
@@ -1256,7 +1256,7 @@ Don't know                     51
 ?                              19
 
 
-APPRECIATE | Please indicate the extent to which you agree with the followingstatements: Most women fail to appreciate fully all that men do for them.
+APPRECIATE | Please indicate the extent to which you agree with the following statements: Most women fail to appreciate fully all that men do for them.
 
 *-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
 
@@ -1329,7 +1329,7 @@ GENDERPERSONALITY_DECISIONS | Select the number that describes where you fall on
 ?      34
 
 
-POP_1 | Please indicate the extent to which you agree with the following statement:It doesn't really matter who you vote for because the rich control both politicalparties.
+POP_1 | Please indicate the extent to which you agree with the following statement: It doesn't really matter who you vote for because the rich control both political parties.
 
 *-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
 
@@ -1342,7 +1342,7 @@ Not sure                       51
 ?                              21
 
 
-POP_2 | Please indicate the extent to which you agree with the following statement:The system is stacked against people like me.
+POP_2 | Please indicate the extent to which you agree with the following statement: The system is stacked against people like me.
 
 *-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
 
@@ -1355,7 +1355,7 @@ Not sure                       47
 ?                              13
 
 
-POP_3 | Please indicate the extent to which you agree with the following statement:I'd rather put my trust in the wisdom of ordinary people than in the opinions ofexperts and intellectuals.
+POP_3 | Please indicate the extent to which you agree with the following statement: I'd rather put my trust in the wisdom of ordinary people than in the opinions of experts and intellectuals.
 
 *-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
 
@@ -1407,7 +1407,7 @@ Not sure                        66
 ?                               20
 
 
-PUBLICINT | Would you support or oppose the creation of a publicly-owned Internetcompany to fill coverage gaps in rural, urban, or remote areas that currently lack robust Internet access?
+PUBLICINT | Would you support or oppose the creation of a publicly-owned Internet company to fill coverage gaps in rural, urban, or remote areas that currently lack robust Internet access?
 
 *-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
 
@@ -1446,7 +1446,7 @@ Not sure                       103
 ?                               20
 
 
-PUBLICGEN | Would you support or oppose having the government producegeneric versions of life-saving drugs, even if it required revoking patents held by pharmaceutical companies?
+PUBLICGEN | Would you support or oppose having the government produce generic versions of life-saving drugs, even if it required revoking patents held by pharmaceutical companies?
 
 *-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
 
@@ -1459,7 +1459,7 @@ Not sure                       248
 ?                               26
 
 
-BOND | Would you support or oppose giving every American a $5,000 savingsaccount at birth that they can access when they turn 18, paid for by raising taxes onestates worth $10,000,000?
+BOND | Would you support or oppose giving every American a $5,000 savings account at birth that they can access when they turn 18, paid for by raising taxes on estates worth $10,000,000?
 
 *-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
 
@@ -1472,7 +1472,7 @@ Not sure                       192
 ?                               15
 
 
-FREECOLL | Would you support or oppose a law that would raise taxes on incomein excess of $200,000 per year by 5 percent in order to cover college tuition for allstudents, while capping the rise in tuition at the rate of inflation for all collegesaccepting such funding?
+FREECOLL | Would you support or oppose a law that would raise taxes on income in excess of $200,000 per year by 5 percent in order to cover college tuition for all students, while capping the rise in tuition at the rate of inflation for all colleges accepting such funding?
 
 *-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
 
@@ -1498,7 +1498,7 @@ Not sure                        87
 ?                               29
 
 
-AVR | Would you support or oppose a policy where all eligible US citizens would beautomatically registered to vote (unless they opt out) when applying for licenses andother IDs at DMVs, Medicaid offices, healthcare exchanges and other public agencies?
+AVR | Would you support or oppose a policy where all eligible US citizens would be automatically registered to vote (unless they opt out) when applying for licenses and other IDs at DMVs, Medicaid offices, healthcare exchanges and other public agencies?
 
 *-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
 
@@ -1511,7 +1511,7 @@ Not sure                        86
 ?                               20
 
 
-M4A | Would you support or oppose expanding Medicare such that it becomes themain health insurance provider for all Americans?
+M4A | Would you support or oppose expanding Medicare such that it becomes the main health insurance provider for all Americans?
 
 *-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
 
@@ -1524,7 +1524,7 @@ Not sure                       143
 ?                               19
 
 
-MARREP | In states where marijuana is legal, would you support or oppose requiringthat any tax revenues collected from its sale be re-invested in communitiesdisproportionately affected by the War on Drugs?
+MARREP | In states where marijuana is legal, would you support or oppose requiring that any tax revenues collected from its sale be re-invested in communities disproportionately affected by the War on Drugs?
 
 *-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
 
@@ -1537,7 +1537,7 @@ Strongly oppose               231
 ?                              23
 
 
-MARAM | Some people are currently incarcerated for marijuana-related offenses instates where marijuana has since been legalized. Do you support or opposereleasing these people from prison?
+MARAM | Some people are currently incarcerated for marijuana-related offenses in states where marijuana has since been legalized. Do you support or oppose releasing these people from prison?
 
 *-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
 
@@ -1563,7 +1563,7 @@ Not sure                        74
 ?                               14
 
 
-YEMEN | The United States is currently providing military equipment and logisticalsupport for Saudi Arabia's intervention in the civil war in Yemen. Would you supportor oppose ending US involvement in the conflict?
+YEMEN | The United States is currently providing military equipment and logistical support for Saudi Arabia's intervention in the civil war in Yemen. Would you support or oppose ending US involvement in the conflict?
 
 *-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
 
@@ -1602,7 +1602,7 @@ Not sure                                                                    70
 ?                                                                           19
 
 
-POLCORRECT | There's been a lot of talk lately about "political correctness." Somepeople think that the way people talk needs to change with the times to be more sensitive to people from different backgrounds. Others think that this has already gone too far and many people are just too easily offended. Which is closer to your opinion?
+POLCORRECT | There's been a lot of talk lately about "political correctness." Some people think that the way people talk needs to change with the times to be more sensitive to people from different backgrounds. Others think that this has already gone too far and many people are just too easily offended. Which is closer to your opinion?
 
 *-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
 
@@ -1661,56 +1661,56 @@ NDEMS | About what percentage of the people who live in your neighborhood doyou 
 98      11
 33      11
 99      10
-3        7
 51       7
+3        7
 67       6
 42       6
-47       5
-59       5
-38       5
-66       5
-46       5
-39       5
-56       5
 37       5
+59       5
+39       5
+66       5
+38       5
+47       5
+46       5
+56       5
 43       4
 49       4
 44       4
+14       3
 12       3
+78       3
+8        3
+36       3
 32       3
 52       3
-36       3
-78       3
-14       3
-8        3
-69       2
-89       2
-68       2
 48       2
-7        1
-4        1
-97       1
-9        1
-18       1
-23       1
-53       1
-88       1
-93       1
-57       1
-62       1
-34       1
-79       1
-77       1
+89       2
+69       2
+68       2
 28       1
-54       1
-19       1
-96       1
-21       1
+7        1
+62       1
 6        1
-81       1
 92       1
+93       1
+4        1
+54       1
+88       1
+18       1
+79       1
+23       1
+9        1
 27       1
+21       1
+97       1
+34       1
+77       1
+96       1
+19       1
 58       1
+81       1
+53       1
+57       1
 
 
 SOURCES_1 | In the past week, did you get news from CNN
