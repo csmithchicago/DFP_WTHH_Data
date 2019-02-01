@@ -1100,6 +1100,21 @@ metadata_dict = {"votereg": {'question': 'Are you registered to vote?',
                  'race2': {'question': '(recode) What racial or ethnic group best describes you?',
                            '1': 'White',
                            '2': 'Non-white'},
+                 'state': {'question': 'What state do you vote in?',
+                           '1': 'AK', '2': 'AL', '4': 'AR', '5': 'AZ', '6': 
+                           'CA', '8': 'CO', '9': 'CT', '10': 'DC', '11': 'DE',
+                           '12': 'FL', '13': 'GA', '15': 'HI', '16': 'IA', 
+                           '17': 'ID', '18': 'IL', '19': 'IN', '20': 'KS', 
+                           '21': 'KY', '22': 'LA', '23': 'MA', '24': 'MD', 
+                           '25': 'ME', '26': 'MI', '27': 'MN', '28': 'MO', 
+                           '29': 'MS', '30': 'MT', '31': 'NC', '32': 'ND', 
+                           '33': 'NE', '34': 'NH', '35': 'NJ', '36': 'NM', 
+                           '37': 'NV', '38': 'NY', '39': 'OH', '40': 'OK', 
+                           '41': 'OR', '42': 'PA', '44': 'RI', '45': 'SC', 
+                           '46': 'SD', '47': 'TN', '48': 'TX', '49': 'UT', 
+                           '50': 'VA', '51': 'VT', '53': 'WA', '54': 'WI', 
+                           '55': 'WV', '56': 'WY', 'District of Columbia':
+                           'DC'},
                  # for these, 1: yes and 2: no, _txt are other actions                 
                  'pp18_polactions_txt': {'question': ('How have you participated in politics in the last 6 months?')},
                  'pp18_polactions_1': {'question': ('Volunteered for a candidate, political party, or other political '
@@ -1134,10 +1149,37 @@ metadata_dict = {"votereg": {'question': 'Are you registered to vote?',
                                              'to be nationally representative of 2018 voters according to Catalist, '
                                              'and to a post-election correction consisting of the national two-party '
                                              'vote share.')},
+                 'EMOTIONS':{'question': ('Now, when you think about voting in the '
+                                          'upcoming elections for Congress this November, '
+                                          'which of the following emotions best describe '
+                                          'why you are voting? You may choose up to three'
+                                          'responses.'),
+                             '1': 'Angry',
+                             '2': 'Interested',
+                             '3': 'Worried',
+                             '4': 'Hopeful',
+                             '5': 'Frustrated',
+                             '6': 'Excited',
+                             '7': 'Confident',
+                             '8': 'Helpless',
+                             '9': 'Depressed',
+                             '10': 'Proud',
+                             '11': 'Happy',
+                             '12': 'Confused',
+                             '13': 'Indifferent',
+                             '14': 'Bored',
+                             '15': 'Powerful',
+                             '16': 'Powerless',
+                             '17': 'Not sure',}
                 }
-
 
 with open('dfp_survey_questions.json', 'w') as fp:
     json.dump(metadata_dict, fp, sort_keys=True, indent=4)
 
 print('finished')
+
+
+
+
+
+
