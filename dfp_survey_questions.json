@@ -47,7 +47,7 @@
     "CONSENT": {
         "0": "No",
         "1": "Yes",
-        "question": "Did they give consent tp participate?"
+        "question": "Did they give consent to participate?"
     },
     "CUSTOMS": {
         "1": "Strongly agree",
@@ -86,6 +86,111 @@
         "6": "Somewhat less money than they deserve",
         "7": "A lot less money than they deserve",
         "question": "For each of the following groups, please say whether most people in the group have more money than they deserve, less money than they deserve, or about the right amount of money. Rich people"
+    },
+    "EMOTIONS": {
+        "question": "Now, when you think about voting in the upcoming elections for Congress this November, which of the following emotions best describe why you are voting? You may choose up to threeresponses."
+    },
+    "EMOTIONS_1": {
+        "1": "Yes",
+        "2": "No",
+        "question": "Now, when you think about voting in the upcoming elections for Congress this November, which of the following emotions best describe why you are voting? You may choose up to three responses.",
+        "title": "('Are you voting in this election because you are angry?')"
+    },
+    "EMOTIONS_10": {
+        "1": "Yes",
+        "2": "No",
+        "question": "Now, when you think about voting in the upcoming elections for Congress this November, which of the following emotions best describe why you are voting? You may choose up to three responses.",
+        "title": "('Are you voting in this election because you are proud?')"
+    },
+    "EMOTIONS_11": {
+        "1": "Yes",
+        "2": "No",
+        "question": "Now, when you think about voting in the upcoming elections for Congress this November, which of the following emotions best describe why you are voting? You may choose up to three responses.",
+        "title": "('Are you voting in this election because you are happy?')"
+    },
+    "EMOTIONS_12": {
+        "1": "Yes",
+        "2": "No",
+        "question": "Now, when you think about voting in the upcoming elections for Congress this November, which of the following emotions best describe why you are voting? You may choose up to three responses.",
+        "title": "('Are you voting in this election because you are confused?')"
+    },
+    "EMOTIONS_13": {
+        "1": "Yes",
+        "2": "No",
+        "question": "Now, when you think about voting in the upcoming elections for Congress this November, which of the following emotions best describe why you are voting? You may choose up to three responses.",
+        "title": "('Are you voting in this election because you are indifferent?')"
+    },
+    "EMOTIONS_14": {
+        "1": "Yes",
+        "2": "No",
+        "question": "Now, when you think about voting in the upcoming elections for Congress this November, which of the following emotions best describe why you are voting? You may choose up to three responses.",
+        "title": "('Are you voting in this election because you are bored?')"
+    },
+    "EMOTIONS_15": {
+        "1": "Yes",
+        "2": "No",
+        "question": "Now, when you think about voting in the upcoming elections for Congress this November, which of the following emotions best describe why you are voting? You may choose up to three responses.",
+        "title": "('Are you voting in this election because you are powerful?')"
+    },
+    "EMOTIONS_16": {
+        "1": "Yes",
+        "2": "No",
+        "question": "Now, when you think about voting in the upcoming elections for Congress this November, which of the following emotions best describe why you are voting? You may choose up to three responses.",
+        "title": "('Are you voting in this election because you are powerless?')"
+    },
+    "EMOTIONS_17": {
+        "1": "Yes",
+        "2": "No",
+        "question": "Now, when you think about voting in the upcoming elections for Congress this November, which of the following emotions best describe why you are voting? You may choose up to three responses.",
+        "title": "('Are you voting in this election because you are not sure?')"
+    },
+    "EMOTIONS_2": {
+        "1": "Yes",
+        "2": "No",
+        "question": "Now, when you think about voting in the upcoming elections for Congress this November, which of the following emotions best describe why you are voting? You may choose up to three responses.",
+        "title": "('Are you voting in this election because you are interested?')"
+    },
+    "EMOTIONS_3": {
+        "1": "Yes",
+        "2": "No",
+        "question": "Now, when you think about voting in the upcoming elections for Congress this November, which of the following emotions best describe why you are voting? You may choose up to three responses.",
+        "title": "('Are you voting in this election because you are worried?')"
+    },
+    "EMOTIONS_4": {
+        "1": "Yes",
+        "2": "No",
+        "question": "Now, when you think about voting in the upcoming elections for Congress this November, which of the following emotions best describe why you are voting? You may choose up to three responses.",
+        "title": "('Are you voting in this election because you are hopeful?')"
+    },
+    "EMOTIONS_5": {
+        "1": "Yes",
+        "2": "No",
+        "question": "Now, when you think about voting in the upcoming elections for Congress this November, which of the following emotions best describe why you are voting? You may choose up to three responses.",
+        "title": "('Are you voting in this election because you are frustrated?')"
+    },
+    "EMOTIONS_6": {
+        "1": "Yes",
+        "2": "No",
+        "question": "Now, when you think about voting in the upcoming elections for Congress this November, which of the following emotions best describe why you are voting? You may choose up to three responses.",
+        "title": "('Are you voting in this election because you are excited?')"
+    },
+    "EMOTIONS_7": {
+        "1": "Yes",
+        "2": "No",
+        "question": "Now, when you think about voting in the upcoming elections for Congress this November, which of the following emotions best describe why you are voting? You may choose up to three responses.",
+        "title": "('Are you voting in this election because you are confident?')"
+    },
+    "EMOTIONS_8": {
+        "1": "Yes",
+        "2": "No",
+        "question": "Now, when you think about voting in the upcoming elections for Congress this November, which of the following emotions best describe why you are voting? You may choose up to three responses.",
+        "title": "('Are you voting in this election because you are helpless?')"
+    },
+    "EMOTIONS_9": {
+        "1": "Yes",
+        "2": "No",
+        "question": "Now, when you think about voting in the upcoming elections for Congress this November, which of the following emotions best describe why you are voting? You may choose up to three responses.",
+        "title": "('Are you voting in this election because you are depressed?')"
     },
     "EMPATHY": {
         "1": "Strongly agree",
@@ -611,6 +716,12 @@
         "6": "No opinion",
         "question": "Please indicate the extent to which you agree with each of the followingstatements. Racial problems in the U.S. are rare, isolated situations."
     },
+    "USR": {
+        "1": "Rural",
+        "2": "Suburban",
+        "3": "Urban",
+        "question": " (coded up) Do you live in a rural, suburban, or urban area?"
+    },
     "VOTECONF": {
         "1": "Very confident",
         "2": "Somewhat confident",
@@ -1099,7 +1210,8 @@
         "6": "Don't know (SOME VOTE HISTORY SCREEN)",
         "7": "Already voted early in-person",
         "8": "Already voted by mail or absentee",
-        "question": "On Tuesday, November 6 (ONCE IT IS NOVEMBER 1ST SHOULDSAY \"This Tuesday\" AND ON NOVEMBER 6TH IT SHOULD SAY \"Today\"), there will be midterm elections for Congressand other offices. How likely is it that you will vote in this election?"
+        "question": "On Tuesday, November 6 (ONCE IT IS NOVEMBER 1ST SHOULDSAY \"This Tuesday\" AND ON NOVEMBER 6TH IT SHOULD SAY \"Today\"), there will be midterm elections for Congressand other offices. How likely is it that you will vote in this election?",
+        "title": "How likely is it that you will vote in this election?"
     },
     "presvote16post": {
         "1": "Hillary Clinton",
@@ -1166,11 +1278,12 @@
         "15": "Undecided",
         "16": "I would not vote",
         "17": "Prefer not to say",
-        "2": "Candidate's name (2 nd Democrat, if applicable)",
+        "2": "Candidate's name (2nd Democrat, if applicable)",
         "3": "Candidate's name (Republican)",
         "5": "Candidate's name (Independent, if applicable)",
         "7": "Other candidate",
-        "question": "(ASK ONLY IN 2018 SENATE STATES) (IF NOT ALREADY VOTED) If the election for U.S. Senator of (state) were being held today, whom would you vote for?(IF ALREADY VOTED) In the election for U.S. Senator of (state), whom did you vote for?"
+        "question": "(ASK ONLY IN 2018 SENATE STATES) (IF NOT ALREADY VOTED) If the election for U.S. Senator of (state) were being held today, whom would you vote for?(IF ALREADY VOTED) In the election for U.S. Senator of (state), whom did you vote for?",
+        "title": "In the election for U.S. Senator whom did/will you vote for?"
     },
     "senvote18_undecided": {
         "10": "Lean Candidate's name (Republican)",
@@ -1179,7 +1292,7 @@
         "15": "Undecided",
         "16": "I would not vote",
         "8": "Lean Candidate's name (Democrat)",
-        "9": "Lean Candidate's name (2 nd Democrat, if applicable)",
+        "9": "Lean Candidate's name (2nd Democrat, if applicable)",
         "question": "Even though you say you are undecided, if you had tochoose, would you say you lean more toward (Candidate A) or (Candidate B)?"
     },
     "specsenvote18": {
@@ -1202,58 +1315,57 @@
         "question": "Even though you say you are undecided, if you had tochoose, would you say you lean more toward (Candidate A) or (Candidate B)?"
     },
     "state": {
-        "1": "AK",
-        "10": "DC",
-        "11": "DE",
-        "12": "FL",
-        "13": "GA",
-        "15": "HI",
-        "16": "IA",
-        "17": "ID",
-        "18": "IL",
-        "19": "IN",
-        "2": "AL",
-        "20": "KS",
-        "21": "KY",
-        "22": "LA",
-        "23": "MA",
-        "24": "MD",
-        "25": "ME",
-        "26": "MI",
-        "27": "MN",
-        "28": "MO",
-        "29": "MS",
-        "30": "MT",
-        "31": "NC",
-        "32": "ND",
-        "33": "NE",
-        "34": "NH",
-        "35": "NJ",
-        "36": "NM",
-        "37": "NV",
-        "38": "NY",
-        "39": "OH",
-        "4": "AR",
-        "40": "OK",
-        "41": "OR",
-        "42": "PA",
-        "44": "RI",
-        "45": "SC",
-        "46": "SD",
-        "47": "TN",
-        "48": "TX",
-        "49": "UT",
-        "5": "AZ",
-        "50": "VA",
-        "51": "VT",
-        "53": "WA",
-        "54": "WI",
-        "55": "WV",
-        "56": "WY",
-        "6": "CA",
-        "8": "CO",
-        "9": "CT",
-        "District of Columbia": "DC",
+        "1": "Alabama",
+        "10": "Delaware",
+        "11": "District of Columbia",
+        "12": "Florida",
+        "13": "Georgia",
+        "15": "Hawaii",
+        "16": "Idaho",
+        "17": "Illinois",
+        "18": "Indiana",
+        "19": "Iowa",
+        "2": "Alaska",
+        "20": "Kansas",
+        "21": "Kentucky",
+        "22": "Louisiana",
+        "23": "Maine",
+        "24": "Maryland",
+        "25": "Massachusetts",
+        "26": "Michigan",
+        "27": "Minnesota",
+        "28": "Mississippi",
+        "29": "Missouri",
+        "30": "Montana",
+        "31": "Nebraska",
+        "32": "Nevada",
+        "33": "New Hampshire",
+        "34": "New Jersey",
+        "35": "New Mexico",
+        "36": "New York",
+        "37": "North Carolina",
+        "38": "North Dakota",
+        "39": "Ohio",
+        "4": "Arizona",
+        "40": "Oklahoma",
+        "41": "Oregon",
+        "42": "Pennsylvania",
+        "44": "Rhode Island",
+        "45": "South Carolina",
+        "46": "South Dakota",
+        "47": "Tennessee",
+        "48": "Texas",
+        "49": "Utah",
+        "5": "Arkansas",
+        "50": "Vermont",
+        "51": "Virginia",
+        "53": "Washington",
+        "54": "West Virginia",
+        "55": "Wisconsin",
+        "56": "Wyoming",
+        "6": "California",
+        "8": "Colorado",
+        "9": "Connecticut",
         "question": "What state do you vote in?"
     },
     "suprpty": {

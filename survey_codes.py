@@ -13,7 +13,7 @@ metadata_dict = {"votereg": {'question': 'Are you registered to vote?',
                             '1': 'Male',
                             '2': 'Female'},
                  'birthyr': {'question': 'In what year were you born?'},
-                 'CONSENT': {'question': 'Did they give consent tp participate?',
+                 'CONSENT': {'question': 'Did they give consent to participate?',
                              '1': 'Yes',
                              '0': 'No'},
                  'educ': {'question': 'What is the highest level of education you have completed?',
@@ -40,21 +40,23 @@ metadata_dict = {"votereg": {'question': 'Are you registered to vote?',
                                                    '"Today"), there will be midterm elections for Congress' 
                                                    'and other offices. How likely is it that you will vote '
                                                    'in this election?'),
-                                      '1': 'Definitely will vote (TAKING EVERYONE)',
-                                      '2': 'Probably will vote (TAKING EVERYONE)',
-                                      '3': 'Maybe will vote (SOME VOTE HISTORY SCREEN)',
-                                      '4': 'Probably won\'t vote (TERMINATE)',
-                                      '5': 'Definitely will not vote (TERMINATE)',
-                                      '7': 'Already voted early in-person',
-                                      '8': 'Already voted by mail or absentee',
-                                      '6': 'Don\'t know (SOME VOTE HISTORY SCREEN)'},
+                                     'title': 'How likely is it that you will vote in this election?',
+                                     '1': 'Definitely will vote (TAKING EVERYONE)',
+                                     '2': 'Probably will vote (TAKING EVERYONE)',
+                                     '3': 'Maybe will vote (SOME VOTE HISTORY SCREEN)',
+                                     '4': 'Probably won\'t vote (TERMINATE)',
+                                     '5': 'Definitely will not vote (TERMINATE)',
+                                     '7': 'Already voted early in-person',
+                                     '8': 'Already voted by mail or absentee',
+                                     '6': 'Don\'t know (SOME VOTE HISTORY SCREEN)'},
                  'senvote18': {'question': ('(ASK ONLY IN 2018 SENATE STATES) (IF NOT ALREADY VOTED) If '
                                             'the election for U.S. Senator of (state) were being held '
                                             'today, whom would you vote for?'
                                             '(IF ALREADY VOTED) In the election for U.S. Senator of '
                                             '(state), whom did you vote for?'),
+                               'title': 'In the election for U.S. Senator whom did/will you vote for?',
                                '1': 'Candidate\'s name (Democrat)',
-                               '2': 'Candidate\'s name (2 nd Democrat, if applicable)',
+                               '2': 'Candidate\'s name (2nd Democrat, if applicable)',
                                '3': 'Candidate\'s name (Republican)',
                                '5': 'Candidate\'s name (Independent, if applicable)',
                                '7': 'Other candidate',
@@ -65,7 +67,7 @@ metadata_dict = {"votereg": {'question': 'Are you registered to vote?',
                                                        'choose, would you say you lean more toward '
                                                        '(Candidate A) or (Candidate B)?'),
                                                        '8': 'Lean Candidate\'s name (Democrat)',
-                                                       '9': 'Lean Candidate\'s name (2 nd Democrat, if applicable)',
+                                                       '9': 'Lean Candidate\'s name (2nd Democrat, if applicable)',
                                                        '10': 'Lean Candidate\'s name (Republican)',
                                                        '12': 'Lean Candidate\'s name (Independent, if applicable)',
                                                        '14': 'Lean Other candidate',
@@ -1101,20 +1103,57 @@ metadata_dict = {"votereg": {'question': 'Are you registered to vote?',
                            '1': 'White',
                            '2': 'Non-white'},
                  'state': {'question': 'What state do you vote in?',
-                           '1': 'AK', '2': 'AL', '4': 'AR', '5': 'AZ', '6': 
-                           'CA', '8': 'CO', '9': 'CT', '10': 'DC', '11': 'DE',
-                           '12': 'FL', '13': 'GA', '15': 'HI', '16': 'IA', 
-                           '17': 'ID', '18': 'IL', '19': 'IN', '20': 'KS', 
-                           '21': 'KY', '22': 'LA', '23': 'MA', '24': 'MD', 
-                           '25': 'ME', '26': 'MI', '27': 'MN', '28': 'MO', 
-                           '29': 'MS', '30': 'MT', '31': 'NC', '32': 'ND', 
-                           '33': 'NE', '34': 'NH', '35': 'NJ', '36': 'NM', 
-                           '37': 'NV', '38': 'NY', '39': 'OH', '40': 'OK', 
-                           '41': 'OR', '42': 'PA', '44': 'RI', '45': 'SC', 
-                           '46': 'SD', '47': 'TN', '48': 'TX', '49': 'UT', 
-                           '50': 'VA', '51': 'VT', '53': 'WA', '54': 'WI', 
-                           '55': 'WV', '56': 'WY', 'District of Columbia':
-                           'DC'},
+                           '1': 'Alabama',
+                           '2': 'Alaska',
+                           '4': 'Arizona',
+                           '5': 'Arkansas',
+                           '6': 'California',
+                           '8': 'Colorado',
+                           '9': 'Connecticut',
+                           '10': 'Delaware',
+                           '11': 'District of Columbia',
+                           '12': 'Florida',
+                           '13': 'Georgia',
+                           '15': 'Hawaii',
+                           '16': 'Idaho',
+                           '17': 'Illinois',
+                           '18': 'Indiana',
+                           '19': 'Iowa',
+                           '20': 'Kansas',
+                           '21': 'Kentucky',
+                           '22': 'Louisiana',
+                           '23': 'Maine',
+                           '24': 'Maryland',
+                           '25': 'Massachusetts',
+                           '26': 'Michigan',
+                           '27': 'Minnesota',
+                           '28': 'Mississippi',
+                           '29': 'Missouri',
+                           '30': 'Montana',
+                           '31': 'Nebraska',
+                           '32': 'Nevada',
+                           '33': 'New Hampshire',
+                           '34': 'New Jersey',
+                           '35': 'New Mexico',
+                           '36': 'New York',
+                           '37': 'North Carolina',
+                           '38': 'North Dakota',
+                           '39': 'Ohio',
+                           '40': 'Oklahoma',
+                           '41': 'Oregon',
+                           '42': 'Pennsylvania',
+                           '44': 'Rhode Island',
+                           '45': 'South Carolina',
+                           '46': 'South Dakota',
+                           '47': 'Tennessee',
+                           '48': 'Texas',
+                           '49': 'Utah',
+                           '50': 'Vermont',
+                           '51': 'Virginia',
+                           '53': 'Washington',
+                           '54': 'West Virginia',
+                           '55': 'Wisconsin',
+                           '56': 'Wyoming'},
                  # for these, 1: yes and 2: no, _txt are other actions                 
                  'pp18_polactions_txt': {'question': ('How have you participated in politics in the last 6 months?')},
                  'pp18_polactions_1': {'question': ('Volunteered for a candidate, political party, or other political '
@@ -1150,28 +1189,168 @@ metadata_dict = {"votereg": {'question': 'Are you registered to vote?',
                                              'and to a post-election correction consisting of the national two-party '
                                              'vote share.')},
                  'EMOTIONS':{'question': ('Now, when you think about voting in the '
-                                          'upcoming elections for Congress this November, '
-                                          'which of the following emotions best describe '
-                                          'why you are voting? You may choose up to three'
-                                          'responses.'),
-                             '1': 'Angry',
-                             '2': 'Interested',
-                             '3': 'Worried',
-                             '4': 'Hopeful',
-                             '5': 'Frustrated',
-                             '6': 'Excited',
-                             '7': 'Confident',
-                             '8': 'Helpless',
-                             '9': 'Depressed',
-                             '10': 'Proud',
-                             '11': 'Happy',
-                             '12': 'Confused',
-                             '13': 'Indifferent',
-                             '14': 'Bored',
-                             '15': 'Powerful',
-                             '16': 'Powerless',
-                             '17': 'Not sure',}
-                }
+                                            'upcoming elections for Congress this November, '
+                                            'which of the following emotions best describe '
+                                            'why you are voting? You may choose up to three'
+                                            'responses.')},
+                 'EMOTIONS_1': {'1': 'Yes',
+                                '2': 'No',
+                                'question': ('Now, when you think about voting in the '
+                                             'upcoming elections for Congress this November, '
+                                             'which of the following emotions best describe '
+                                             'why you are voting? You may choose up to three '
+                                             'responses.'),
+                                'title': "('Are you voting in this election because you are angry?')"},
+                 'EMOTIONS_10': {'1': 'Yes',
+                                 '2': 'No',
+                                 'question': ('Now, when you think about voting in the '
+                                              'upcoming elections for Congress this November, '
+                                              'which of the following emotions best describe '
+                                              'why you are voting? You may choose up to three '
+                                              'responses.'),
+                                 'title': "('Are you voting in this election because you are proud?')"},
+                 'EMOTIONS_11': {'1': 'Yes',
+                                 '2': 'No',
+                                 'question': ('Now, when you think about voting in the '
+                                              'upcoming elections for Congress this November, '
+                                              'which of the following emotions best describe '
+                                              'why you are voting? You may choose up to three '
+                                              'responses.'),
+                                 'title': "('Are you voting in this election because you are happy?')"},
+                 'EMOTIONS_12': {'1': 'Yes',
+                                 '2': 'No',
+                                'question': ('Now, when you think about voting in the '
+                                             'upcoming elections for Congress this November, '
+                                             'which of the following emotions best describe '
+                                             'why you are voting? You may choose up to three '
+                                             'responses.'),
+                                 'title': "('Are you voting in this election because you are confused?')"},
+                 'EMOTIONS_13': {'1': 'Yes',
+                                 '2': 'No',
+                                 'question': ('Now, when you think about voting in the '
+                                              'upcoming elections for Congress this November, '
+                                              'which of the following emotions best describe '
+                                              'why you are voting? You may choose up to three '
+                                              'responses.'),
+                                 'title': "('Are you voting in this election because you are indifferent?')"},
+                 'EMOTIONS_14': {'1': 'Yes',
+                                 '2': 'No',
+                                'question': ('Now, when you think about voting in the '
+                                             'upcoming elections for Congress this November, '
+                                             'which of the following emotions best describe '
+                                             'why you are voting? You may choose up to three '
+                                             'responses.'),
+                                 'title': "('Are you voting in this election because you are bored?')"},
+                 'EMOTIONS_15': {'1': 'Yes',
+                                 '2': 'No',
+                                 'question': ('Now, when you think about voting in the '
+                                              'upcoming elections for Congress this November, '
+                                              'which of the following emotions best describe '
+                                              'why you are voting? You may choose up to three '
+                                              'responses.'),
+                                 'title': "('Are you voting in this election because you are powerful?')"},
+                 'EMOTIONS_16': {'1': 'Yes',
+                                 '2': 'No',
+                                 'question': ('Now, when you think about voting in the '
+                                              'upcoming elections for Congress this November, '
+                                              'which of the following emotions best describe '
+                                              'why you are voting? You may choose up to three '
+                                              'responses.'),
+                                 'title': "('Are you voting in this election because you are powerless?')"},
+                 'EMOTIONS_17': {'1': 'Yes',
+                                 '2': 'No',
+                                 'question': ('Now, when you think about voting in the '
+                                              'upcoming elections for Congress this November, '
+                                              'which of the following emotions best describe '
+                                              'why you are voting? You may choose up to three '
+                                              'responses.'),
+                                 'title': "('Are you voting in this election because you are not sure?')"},
+                 'EMOTIONS_2': {'1': 'Yes',
+                                '2': 'No',
+                                'question': ('Now, when you think about voting in the '
+                                             'upcoming elections for Congress this November, '
+                                             'which of the following emotions best describe '
+                                             'why you are voting? You may choose up to three '
+                                             'responses.'),
+                                'title': "('Are you voting in this election because you are interested?')"},
+                 'EMOTIONS_3': {'1': 'Yes',
+                                '2': 'No',
+                                'question': ('Now, when you think about voting in the '
+                                             'upcoming elections for Congress this November, '
+                                             'which of the following emotions best describe '
+                                             'why you are voting? You may choose up to three '
+                                             'responses.'),
+                                'title': "('Are you voting in this election because you are worried?')"},
+                 'EMOTIONS_4': {'1': 'Yes',
+                                '2': 'No',
+                                'question': ('Now, when you think about voting in the '
+                                             'upcoming elections for Congress this November, '
+                                             'which of the following emotions best describe '
+                                             'why you are voting? You may choose up to three '
+                                             'responses.'),
+                                 'title': "('Are you voting in this election because you are hopeful?')"},
+                 'EMOTIONS_5': {'1': 'Yes',
+                                '2': 'No',
+                                'question': ('Now, when you think about voting in the '
+                                             'upcoming elections for Congress this November, '
+                                             'which of the following emotions best describe '
+                                             'why you are voting? You may choose up to three '
+                                             'responses.'),
+                                'title': "('Are you voting in this election because you are frustrated?')"},
+                 'EMOTIONS_6': {'1': 'Yes',
+                                '2': 'No',
+                                'question': ('Now, when you think about voting in the '
+                                             'upcoming elections for Congress this November, '
+                                             'which of the following emotions best describe '
+                                             'why you are voting? You may choose up to three '
+                                             'responses.'),
+                                'title': "('Are you voting in this election because you are excited?')"},
+                 'EMOTIONS_7': {'1': 'Yes',
+                                '2': 'No',
+                                'question': ('Now, when you think about voting in the '
+                                             'upcoming elections for Congress this November, '
+                                             'which of the following emotions best describe '
+                                             'why you are voting? You may choose up to three '
+                                             'responses.'),
+                                'title': "('Are you voting in this election because you are confident?')"},
+                 'EMOTIONS_8': {'1': 'Yes',
+                                '2': 'No',
+                                'question': ('Now, when you think about voting in the '
+                                             'upcoming elections for Congress this November, '
+                                             'which of the following emotions best describe '
+                                             'why you are voting? You may choose up to three '
+                                             'responses.'),
+                                'title': "('Are you voting in this election because you are helpless?')"},
+                 'EMOTIONS_9': {'1': 'Yes',
+                                '2': 'No',
+                                'question': ('Now, when you think about voting in the '
+                                             'upcoming elections for Congress this November, '
+                                             'which of the following emotions best describe '
+                                             'why you are voting? You may choose up to three '
+                                             'responses.'),
+                                'title': "('Are you voting in this election because you are depressed?')"},
+                 'USR': {'question': ' (coded up) Do you live in a rural, suburban, or urban area?',
+                         '1': 'Rural',
+                         '2': 'Suburban',
+                         '3': 'Urban',},
+                 # '1': 'Angry',
+                 # '2': 'Interested',
+                 # '3': 'Worried',
+                 # '4': 'Hopeful',
+                 # '5': 'Frustrated',
+                 # '6': 'Excited',
+                 # '7': 'Confident',
+                 # '8': 'Helpless',
+                 # '9': 'Depressed',
+                 # '10': 'Proud',
+                 # '11': 'Happy',
+                 # '12': 'Confused',
+                 # '13': 'Indifferent',
+                 # '14': 'Bored',
+                 # '15': 'Powerful',
+                 # '16': 'Powerless',
+                 # '17': 'Not sure',}
+}
 
 with open('dfp_survey_questions.json', 'w') as fp:
     json.dump(metadata_dict, fp, sort_keys=True, indent=4)
