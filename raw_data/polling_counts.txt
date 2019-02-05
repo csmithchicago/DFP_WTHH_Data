@@ -1,359 +1,3 @@
-campaign_contact_text | Have you, Received a text message from a campaign, organization or group
-
-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
-
-No, not contacted that way                                    1722
-Yes, contacted by a Democrat or Democratic leaning group       666
-Yes, contacted by both                                         466
-Yes, contacted by a Republican or Republican leaning group     361
-
-
-FINPREP | Thinking about your household's finances today, could you cover a $400 emergency expense without borrowing it or taking on debt?
-
-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
-
-Yes, definitely       1743
-Yes, probably          575
-No, definitely not     416
-No, probably not       291
-Not sure               175
-?                       15
-
-
-housevote18_undecided | Even though you say you are undecided, if you had tochoose, would you say you lean more toward (Candidate A) or (Candidate B)?
-
-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
-
-?                                                     3122
-Undecided                                               46
-Lean Candidate's name (Republican)                      22
-Lean Candidate's name (Democrat)                        13
-Lean Other candidate                                     5
-I would not vote                                         4
-Lean Candidate's name (Independent, if applicable)       3
-
-
-SOURCES_13 | In the past week, did you get news from Twitter
-
-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
-
-No     2779
-Yes     436
-
-
-SOURCES_9 | In the past week, did you get news from National print newspapers
-
-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
-
-No     2758
-Yes     457
-
-
-employ | Which of the following best describes your current employment status?
-
-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
-
-Retired                          1244
-Working full time now            1034
-Working part time now             318
-Permanently disabled              231
-Taking care of home or family     158
-Unemployed                         96
-Student                            65
-Other job                          56
-Temporarily laid off               13
-
-
-educ2 | (recode) What is the highest level of education you have completed?
-
-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
-
-Less than college    1886
-College              1329
-
-
-EMOTIONS_14 | Now, when you think about voting in the upcoming elections for Congress this November, which of the following emotions best describe why you are voting? You may choose up to three responses.
-
-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
-
-No     3194
-Yes      21
-
-
-GENERATIONS | Please indicate the extent to which you agree with each of thefollowing statements. Generations of slavery and discrimination have created conditions that make it difficult for African Americans to work their way out of the lower class.
-
-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
-
-Strongly disagree             915
-Strongly agree                708
-Somewhat agree                687
-Somewhat disagree             527
-Neither agree nor disagree    321
-No opinion                     52
-?                               5
-
-
-campaign_contact_inperson | Have you, Spoke in person with someone from a campaign,organization or group
-
-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
-
-No, not contacted that way                                    2017
-Yes, contacted by a Democrat or Democratic leaning group       592
-Yes, contacted by both                                         341
-Yes, contacted by a Republican or Republican leaning group     265
-
-
-educ | What is the highest level of education you have completed?
-
-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
-
-Some college, but no degree (yet)                   945
-4-year college degree                               754
-Postgraduate degree (MA, MBA, MD, JD, PhD, etc.)    575
-2-year college degree                               530
-High school graduate                                369
-Did not graduate from high school                    42
-
-
-EMOTIONS_11 | Now, when you think about voting in the upcoming elections for Congress this November, which of the following emotions best describe why you are voting? You may choose up to three responses.
-
-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
-
-No     3095
-Yes     120
-
-
-favor_metoo | \#metoo, Please rate your feelings toward each of the people, terms, and organizations below: do you feel very favorable toward them, somewhat favorable, somewhat unfavorable, very unfavorable, or have you never heard of them? RANDOMIZE
-
-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
-
-Very unfavorable        846
-Very favorable          809
-Somewhat favorable      800
-Somewhat unfavorable    499
-Don't know              180
-Never heard              81
-
-
-favor_rep | republican party, Please rate your feelings toward each of the people, terms, and organizations below: do you feel very favorable toward them, somewhat favorable, somewhat unfavorable, very unfavorable, or have you never heard of them? RANDOMIZE
-
-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
-
-Very unfavorable        1503
-Somewhat favorable       852
-Somewhat unfavorable     425
-Very favorable           386
-Don't know                37
-Never heard               12
-
-
-LAZY_Blacks | How lazy or hardworking is each group? Blacks
-
-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
-
-Neither lazy nor hardworking    1112
-Hardworking                      672
-Somewhat hardworking             633
-Somewhat lazy                    401
-Very hardworking                 227
-Lazy                              88
-Very lazy                         52
-?                                 30
-
-
-SOURCES_10 | In the past week, did you get news from News on the radio
-
-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
-
-No     2010
-Yes    1205
-
-
-turnout16 | Did you vote in the election on Tuesday, November 8, 2016?
-
-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
-
-Yes    3071
-No      142
-?         2
-
-
-NONVOTE_WHY_5 | I wanted to vote, but couldn't find my polling location
-
-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
-
-?      2592
-No      615
-Yes       8
-
-
-INTELLIGENT_Whites | How intelligent or unintelligent is each group? Whites
-
-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
-
-Neither intelligent nor unintelligent    1204
-Intelligent                               949
-Somewhat intelligent                      698
-Very intelligent                          181
-Somewhat unintelligent                    104
-Very unintelligent                         32
-?                                          26
-Unintelligent                              21
-
-
-SOURCES_8 | In the past week, did you get news from Your local daily print newspaper
-
-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
-
-No     2279
-Yes     936
-
-
-child18 | Are you the parent or guardian of any children under the age of 18?
-
-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
-
-No     2684
-Yes     531
-
-
-specsenvote18_undecided | Even though you say you are undecided, if you had tochoose, would you say you lean more toward (Candidate A) or (Candidate B)?
-
-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
-
-?            3213
-Undecided       2
-
-
-RACE_IDENT | How important is being $race to your identity?
-
-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
-
-Not very important      960
-Somewhat important      958
-Very important          728
-Not at all important    553
-?                        16
-
-
-BORDER | Please indicate whether you favor or oppose each of the following proposals addressing immigration: Increase border security by building a fence along part of the US border with Mexico.
-
-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
-
-Strongly support              1243
-Strongly oppose               1231
-Somewhat support               257
-Somewhat oppose                227
-Neither support nor oppose     201
-Don't know                      41
-?                               15
-
-
-campaign_contact_onlineads | Have you, Saw political ads online
-
-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
-
-Yes, contacted by both                                        1794
-No, not contacted that way                                     826
-Yes, contacted by a Democrat or Democratic leaning group       336
-Yes, contacted by a Republican or Republican leaning group     259
-
-
-union_combined_3 | No one in household is a union member
-
-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
-
-Yes    2300
-No      915
-
-
-SYSTEM | Please indicate the extent to which you agree with each of the followingstatements. Racial problems in the U.S. are rare, isolated situations.
-
-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
-
-Strongly disagree             1346
-Somewhat disagree              850
-Somewhat agree                 432
-Neither agree nor disagree     368
-Strongly agree                 171
-No opinion                      40
-?                                8
-
-
-age5 | (recode) What is your age?
-
-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
-
-65+      1302
-50-64    1094
-40-49     358
-30-39     294
-18-29     167
-
-
-hispanic | Are you of Spanish, Latino, or Hispanic origin or descent?
-
-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
-
-No     3003
-Yes     212
-
-
-SOCIALDOMINANCE_EQUALIDEAL | Group equality should be our ideal
-
-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
-
-Strongly agree                1315
-Somewhat agree                 686
-Neither agree nor disagree     639
-Somewhat disagree              273
-Strongly disagree              260
-?                               42
-
-
-pp18_polactions_2 | In the last 6 months have you attended a rally or protest
-
-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
-
-No     2767
-Yes     393
-?        55
-
-
-SOURCES_6 | In the past week, did you get news from National nightly network TV news
-
-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
-
-No     2314
-Yes     901
-
-
-presvote16post | ask if turnout16=1 Who did you vote for in the election for President?
-
-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
-
-Hillary Clinton               1456
-Donald Trump                  1343
-Did not vote for President     167
-Gary Johnson                   102
-Jill Stein                      63
-Other                           58
-Evan McMullin                   23
-?                                3
-
-
-VOTE_GEN | In general, how often do you vote?
-
-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
-
-I always vote       2592
-I usually vote       533
-I sometimes vote      62
-I rarely vote         17
-?                      6
-I never vote           5
-
-
 SOCIALDOMINANCE_PRIORITIES | In setting priorities, we must consider all groups
 
 *-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
@@ -366,131 +10,25 @@ Strongly disagree               89
 ?                               31
 
 
-pew_bornagain | Would you describe yourself as a “born-again” or evangelical Christian, or not?
+EMOTIONS_14 | Now, when you think about voting in the upcoming elections for Congress this November, which of the following emotions best describe why you are voting? You may choose up to three responses.
 
 *-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
 
-No     2231
-Yes     907
-?        77
+No     3194
+Yes      21
 
 
-LAZY_Latinos | How lazy or hardworking is each group? Latinos
-
-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
-
-Hardworking                     1035
-Neither lazy nor hardworking     823
-Somewhat hardworking             635
-Very hardworking                 508
-Somewhat lazy                    147
-?                                 27
-Lazy                              24
-Very lazy                         16
-
-
-POLFEE | Would you support or oppose a policy to charge pollution fees on companies that emit high levels of greenhouse gasses?
+APPRECIATE | Please indicate the extent to which you agree with the following statements: Most women fail to appreciate fully all that men do for them.
 
 *-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
 
-Strongly support              1524
-Somewhat support               620
-Neither support nor oppose     365
-Strongly oppose                357
-Somewhat oppose                226
-Not sure                       103
-?                               20
-
-
-DEPORT | Please indicate whether you favor or oppose each of the following proposals addressing immigration: Deport undocumented immigrants to their native countries.
-
-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
-
-Strongly support              1116
-Somewhat support               568
-Strongly oppose                531
-Somewhat oppose                483
-Neither support nor oppose     438
-Don't know                      61
-?                               18
-
-
-MARLEG | Would you support or oppose fully legalizing marijuana at the national level?
-
-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
-
-Strongly support              1272
-Strongly oppose                724
-Somewhat support               530
-Neither support nor oppose     334
-Somewhat oppose                267
-Not sure                        74
-?                               14
-
-
-USR |  (coded up) Do you live in a rural, suburban, or urban area?
-
-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
-
-Suburban    1739
-Rural        806
-Urban        591
-?             79
-
-
-govvote18_undecided | Even though you say you are undecided, if you had tochoose, would you say you lean more toward (Candidate A) or (Candidate B)?
-
-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
-
-?                                                         3183
-Undecided                                                   19
-Lean Candidate's name (Republican)                           8
-Lean Candidate's name (Democrat)                             3
-Lean Candidate's name (2nd Independent, if applicable)       1
-I would not vote                                             1
-
-
-SOURCES_5 | In the past week, did you get news from Local TV News
-
-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
-
-Yes    1806
-No     1409
-
-
-BOND | Would you support or oppose giving every American a $5,000 savings account at birth that they can access when they turn 18, paid for by raising taxes on estates worth $10,000,000?
-
-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
-
-Strongly oppose               1096
-Strongly support               667
-Somewhat support               460
-Neither support nor oppose     459
-Somewhat oppose                326
-Not sure                       192
-?                               15
-
-
-CUSTOMS | Please indicate the extent to which you agree with each of the following statements. The growing number of newcomers from other countries threatens traditional American customs and values.
-
-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
-
-Strongly disagree             1044
-Strongly agree                 721
-Somewhat agree                 612
-Neither agree nor disagree     396
-Somewhat disagree              382
-Not sure                        45
-?                               15
-
-
-NONVOTE_WHY_1 | I didn't feel like I knew enough to make an informed decision between the candidates
-
-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
-
-?      2592
-No      404
-Yes     219
+Strongly disagree             1157
+Neither agree nor disagree     740
+Somewhat disagree              559
+Somewhat agree                 473
+Strongly agree                 209
+Don't know                      58
+?                               19
 
 
 DESERVE_rich | For each of the following groups, please say whether most people in the group have more money than they deserve, less money than they deserve, or about the right amount of money. Rich people
@@ -507,66 +45,149 @@ Somewhat less money than they deserve      26
 Slightly less money than they deserve      22
 
 
-pid7_dems | Would you call yourself a strong Democrat or a not very strong Democrat?
+SOURCES_11 | In the past week, did you get news from Late night comedy shows
 
 *-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
 
-?                           2009
-Strong Democrat              950
-Not very strong Democrat     256
+No     2785
+Yes     430
 
 
-campaign_contact_phone | Have you, Received phone calls from a campaign, organization or group
-
-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
-
-No, not contacted that way                                    1451
-Yes, contacted by both                                         872
-Yes, contacted by a Democrat or Democratic leaning group       539
-Yes, contacted by a Republican or Republican leaning group     353
-
-
-marstat | What is your marital status?
+SOCIALDOMINANCE_EQUALIDEAL | Group equality should be our ideal
 
 *-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
 
-Married                         1868
-Never married                    542
-Divorced                         429
-Widowed                          217
-Domestic / civil partnership     112
-Separated                         47
+Strongly agree                1315
+Somewhat agree                 686
+Neither agree nor disagree     639
+Somewhat disagree              273
+Strongly disagree              260
+?                               42
 
 
-SOCIALDOMINANCE_NOTPUSH | We should not push for group equality
-
-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
-
-Strongly disagree             1104
-Neither agree nor disagree     757
-Somewhat disagree              572
-Somewhat agree                 386
-Strongly agree                 357
-?                               39
-
-
-pp18_polactions_6 | In the last 6 months have you, made a donation to a candidate, party, or other political organization
+union_combined_3 | No one in household is a union member
 
 *-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
 
-No     2256
-Yes     904
-?        55
+Yes    2300
+No      915
 
 
-FLAG | Which of the following is closer to your view regarding the Confederate flag?
+specsenvote18 | (ASK ONLY IN 2018 SPECIAL ELECTION SENATE STATES) (IFNOT ALREADY VOTED) If the special election for U.S. Senator of (state) were being held today, whom would you vote for? (IF ALREADY VOTED) In the special election for U.S. Senator of (state), whom did you vote for?
 
 *-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
 
-Southern Heritage and Culture    1551
-Slavery and White Supremacy      1417
-Don't know                        239
-?                                   8
+?                                                   3111
+Candidate's name (Democrat)                           58
+Candidate's name (Republican)                         38
+Candidate's name (2nd Republican, if applicable)       5
+Undecided                                              2
+I would not vote                                       1
+
+
+M4A | Would you support or oppose expanding Medicare such that it becomes the main health insurance provider for all Americans?
+
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+Strongly support              1100
+Strongly oppose                937
+Somewhat support               482
+Neither support nor oppose     301
+Somewhat oppose                233
+Not sure                       143
+?                               19
+
+
+EMOTIONS_7 | Now, when you think about voting in the upcoming elections for Congress this November, which of the following emotions best describe why you are voting? You may choose up to three responses.
+
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+No     2726
+Yes     489
+
+
+PUBLICINT | Would you support or oppose the creation of a publicly-owned Internet company to fill coverage gaps in rural, urban, or remote areas that currently lack robust Internet access?
+
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+Strongly support              1022
+Somewhat support               913
+Neither support nor oppose     553
+Strongly oppose                283
+Not sure                       213
+Somewhat oppose                210
+?                               21
+
+
+favor_dem | democratic party, Please rate your feelings toward each of the people, terms, and organizations below: do you feel very favorable toward them, somewhat favorable, somewhat unfavorable, very unfavorable, or have you never heard of them? RANDOMIZE
+
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+Very unfavorable        1352
+Somewhat favorable       906
+Very favorable           576
+Somewhat unfavorable     347
+Don't know                33
+Never heard                1
+
+
+INSTITUTION | Please indicate the extent to which you agree with each of thefollowing statements. White people in the U.S. have certain advantages because ofthe color of their skin.
+
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+Strongly agree                1044
+Somewhat agree                 685
+Strongly disagree              605
+Neither agree nor disagree     418
+Somewhat disagree              409
+No opinion                      42
+?                               12
+
+
+SOURCES_6 | In the past week, did you get news from National nightly network TV news
+
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+No     2314
+Yes     901
+
+
+EMPATHY | Please indicate the extent to which you agree with each of the followingstatements. I am angry that racism exists.
+
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+Strongly agree                1974
+Somewhat agree                 680
+Neither agree nor disagree     375
+No opinion                      60
+Strongly disagree               58
+Somewhat disagree               56
+?                               12
+
+
+MARAM | Some people are currently incarcerated for marijuana-related offenses in states where marijuana has since been legalized. Do you support or oppose releasing these people from prison?
+
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+Strongly support              1383
+Somewhat support               839
+Neither support nor oppose     406
+Somewhat oppose                255
+Strongly oppose                191
+Not sure                       124
+?                               17
+
+
+VOTE_GEN | In general, how often do you vote?
+
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+I always vote       2592
+I usually vote       533
+I sometimes vote      62
+I rarely vote         17
+?                      6
+I never vote           5
 
 
 favor_demcong | dems in congress, Please rate your feelings toward each of the people, terms, and organizations below: do you feel very favorable toward them, somewhat favorable, somewhat unfavorable, very unfavorable, or have you never heard of them? RANDOMIZE
@@ -581,17 +202,186 @@ Don't know                48
 Never heard                7
 
 
-YEMEN | The United States is currently providing military equipment and logistical support for Saudi Arabia's intervention in the civil war in Yemen. Would you support or oppose ending US involvement in the conflict?
+ideo5 | In general, how would you describe your own political viewpoint?
 
 *-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
 
-Strongly support              980
-Somewhat support              686
-Neither support nor oppose    563
-Somewhat oppose               361
-Not sure                      329
-Strongly oppose               268
-?                              28
+Conservative         780
+Moderate             760
+Liberal              598
+Very liberal         498
+Very conservative    492
+Not sure              87
+
+
+SYSTEM | Please indicate the extent to which you agree with each of the followingstatements. Racial problems in the U.S. are rare, isolated situations.
+
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+Strongly disagree             1346
+Somewhat disagree              850
+Somewhat agree                 432
+Neither agree nor disagree     368
+Strongly agree                 171
+No opinion                      40
+?                                8
+
+
+NONVOTE_WHY_1 | I didn't feel like I knew enough to make an informed decision between the candidates
+
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+?      2592
+No      404
+Yes     219
+
+
+EMOTIONS_9 | Now, when you think about voting in the upcoming elections for Congress this November, which of the following emotions best describe why you are voting? You may choose up to three responses.
+
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+No     3059
+Yes     156
+
+
+pp18_votelikely | On Tuesday, November 6 (ONCE IT IS NOVEMBER 1ST SHOULDSAY "This Tuesday" AND ON NOVEMBER 6TH IT SHOULD SAY "Today"), there will be midterm elections for Congressand other offices. How likely is it that you will vote in this election?
+
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+Definitely will vote (TAKING EVERYONE)        1756
+Already voted by mail or absentee              647
+Already voted early in-person                  613
+Probably will vote (TAKING EVERYONE)           128
+Maybe will vote (SOME VOTE HISTORY SCREEN)      45
+Don't know (SOME VOTE HISTORY SCREEN)           20
+9                                                6
+
+
+EMOTIONS_10 | Now, when you think about voting in the upcoming elections for Congress this November, which of the following emotions best describe why you are voting? You may choose up to three responses.
+
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+No     2679
+Yes     536
+
+
+child18 | Are you the parent or guardian of any children under the age of 18?
+
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+No     2684
+Yes     531
+
+
+union_combined_2 | Yes, someone in household is a current union member
+
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+No     3070
+Yes     145
+
+
+BORDER | Please indicate whether you favor or oppose each of the following proposals addressing immigration: Increase border security by building a fence along part of the US border with Mexico.
+
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+Strongly support              1243
+Strongly oppose               1231
+Somewhat support               257
+Somewhat oppose                227
+Neither support nor oppose     201
+Don't know                      41
+?                               15
+
+
+campaign_contact_socialmedia | Have you, Contacted by a campaign, organization or groupthrough social media
+
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+No, not contacted that way                                    1729
+Yes, contacted by both                                         766
+Yes, contacted by a Democrat or Democratic leaning group       455
+Yes, contacted by a Republican or Republican leaning group     265
+
+
+EMOTIONS_17 | Now, when you think about voting in the upcoming elections for Congress this November, which of the following emotions best describe why you are voting? You may choose up to three responses.
+
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+No     3133
+Yes      82
+
+
+NONVOTE_WHY_4 | I wanted to vote, but didn't have time/was too busy that day
+
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+?      2592
+No      441
+Yes     182
+
+
+EMOTIONS_13 | Now, when you think about voting in the upcoming elections for Congress this November, which of the following emotions best describe why you are voting? You may choose up to three responses.
+
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+No     3141
+Yes      74
+
+
+favor_mcconnell | mitch mcconnell, Please rate your feelings toward each of the people, terms, and organizations below: do you feel very favorable toward them, somewhat favorable, somewhat unfavorable, very unfavorable, or have you never heard of them? RANDOMIZE
+
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+Very unfavorable        1437
+Somewhat favorable       754
+Somewhat unfavorable     430
+Don't know               330
+Very favorable           176
+Never heard               88
+
+
+POP_3 | Please indicate the extent to which you agree with the following statement: I'd rather put my trust in the wisdom of ordinary people than in the opinions of experts and intellectuals.
+
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+Neither agree nor disagree    807
+Somewhat agree                801
+Somewhat disagree             678
+Strongly disagree             452
+Strongly agree                394
+Not sure                       61
+?                              22
+
+
+SOURCES_12 | In the past week, did you get news from Facebook
+
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+No     1949
+Yes    1266
+
+
+pp18_polactions_6 | In the last 6 months have you, made a donation to a candidate, party, or other political organization
+
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+No     2256
+Yes     904
+?        55
+
+
+FREECOLL | Would you support or oppose a law that would raise taxes on income in excess of $200,000 per year by 5 percent in order to cover college tuition for all students, while capping the rise in tuition at the rate of inflation for all colleges accepting such funding?
+
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+Strongly support              967
+Strongly oppose               893
+Somewhat support              602
+Somewhat oppose               313
+Neither support nor oppose    302
+Not sure                      124
+?                              14
 
 
 DESERVE_poor | For each of the following groups, please say whether most people in the group have more money than they deserve, less money than they deserve, or about the right amount of money. Poor people
@@ -608,37 +398,654 @@ Somewhat more money than they deserve      42
 A lot more money than they deserve         34
 
 
-SOURCES_15 | In the past week, did you get news from YouTube
+SOURCES_16 | In the past week, did you get news from Other social media such as LinkedIn, Instagram, or Snapchat
 
 *-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
 
-No     2812
-Yes     403
+No     2988
+Yes     227
 
 
-pp18_votelikely | On Tuesday, November 6 (ONCE IT IS NOVEMBER 1ST SHOULDSAY "This Tuesday" AND ON NOVEMBER 6TH IT SHOULD SAY "Today"), there will be midterm elections for Congressand other offices. How likely is it that you will vote in this election?
-
-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
-
-Definitely will vote (TAKING EVERYONE)        1756
-Already voted by mail or absentee              647
-Already voted early in-person                  613
-Probably will vote (TAKING EVERYONE)           128
-Maybe will vote (SOME VOTE HISTORY SCREEN)      45
-Don't know (SOME VOTE HISTORY SCREEN)           20
-9                                                6
-
-
-specsenvote18 | (ASK ONLY IN 2018 SPECIAL ELECTION SENATE STATES) (IFNOT ALREADY VOTED) If the special election for U.S. Senator of (state) were being held today, whom would you vote for? (IF ALREADY VOTED) In the special election for U.S. Senator of (state), whom did you vote for?
+SOURCES_10 | In the past week, did you get news from News on the radio
 
 *-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
 
-?                                                   3111
-Candidate's name (Democrat)                           58
-Candidate's name (Republican)                         38
-Candidate's name (2nd Republican, if applicable)       5
-Undecided                                              2
-I would not vote                                       1
+No     2010
+Yes    1205
+
+
+campaign_contact_onlineads | Have you, Saw political ads online
+
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+Yes, contacted by both                                        1794
+No, not contacted that way                                     826
+Yes, contacted by a Democrat or Democratic leaning group       336
+Yes, contacted by a Republican or Republican leaning group     259
+
+
+SOURCES_7 | In the past week, did you get news from News websites or apps
+
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+No     1818
+Yes    1397
+
+
+pid7_oths | Do you think of yourself as closer to the Democratic or the Republican Party?
+
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+?                       2160
+The Republican Party     387
+The Democratic Party     362
+Neither                  285
+Not sure                  21
+
+
+SOLITARY | Would you support or oppose ending the practice of solitary confinement in the United States?
+
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+Neither support nor oppose    727
+Strongly oppose               598
+Strongly support              558
+Somewhat oppose               557
+Somewhat support              511
+Not sure                      247
+?                              17
+
+
+LAZY_Whites | How lazy or hardworking is each group? Whites
+
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+Neither lazy nor hardworking    1091
+Somewhat hardworking             773
+Hardworking                      723
+Somewhat lazy                    344
+Very hardworking                 152
+Lazy                              63
+?                                 35
+Very lazy                         34
+
+
+NONVOTE_WHY_7 | Other
+
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+?      2592
+No      510
+Yes     113
+
+
+LAZY_Latinos | How lazy or hardworking is each group? Latinos
+
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+Hardworking                     1035
+Neither lazy nor hardworking     823
+Somewhat hardworking             635
+Very hardworking                 508
+Somewhat lazy                    147
+?                                 27
+Lazy                              24
+Very lazy                         16
+
+
+INTELLIGENT_Latinos | How intelligent or unintelligent is each group? Latinos
+
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+Neither intelligent nor unintelligent    1330
+Intelligent                               816
+Somewhat intelligent                      717
+Very intelligent                          144
+Somewhat unintelligent                    134
+?                                          43
+Very unintelligent                         17
+Unintelligent                              14
+
+
+gender | What is your gender?
+
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+Female    1756
+Male      1459
+
+
+YEMEN | The United States is currently providing military equipment and logistical support for Saudi Arabia's intervention in the civil war in Yemen. Would you support or oppose ending US involvement in the conflict?
+
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+Strongly support              980
+Somewhat support              686
+Neither support nor oppose    563
+Somewhat oppose               361
+Not sure                      329
+Strongly oppose               268
+?                              28
+
+
+djtrelct | Regardless of how you voted in 2016, with the information you have now, would you vote to re-elect Donald Trump in 2020?
+
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+No          1737
+Yes         1345
+Not sure     129
+?              4
+
+
+RACE_IDENT | How important is being $race to your identity?
+
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+Not very important      960
+Somewhat important      958
+Very important          728
+Not at all important    553
+?                        16
+
+
+campaign_contact_TVads | Have you, Saw political ads on television
+
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+Yes, contacted by both                                        2138
+No, not contacted that way                                     597
+Yes, contacted by a Democrat or Democratic leaning group       248
+Yes, contacted by a Republican or Republican leaning group     232
+
+
+pew_bornagain | Would you describe yourself as a “born-again” or evangelical Christian, or not?
+
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+No     2231
+Yes     907
+?        77
+
+
+campaign_contact_inperson | Have you, Spoke in person with someone from a campaign,organization or group
+
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+No, not contacted that way                                    2017
+Yes, contacted by a Democrat or Democratic leaning group       592
+Yes, contacted by both                                         341
+Yes, contacted by a Republican or Republican leaning group     265
+
+
+NONVOTE_WHY_5 | I wanted to vote, but couldn't find my polling location
+
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+?      2592
+No      615
+Yes       8
+
+
+housevote18 | If the election for U.S. House of Representatives were being heldtoday, who would you vote for in the district where you live?(IF NOT ALREADY VOTED) If the election for U.S. House of Representatives were being held today, whom would you vote for in the district where you live? (IF ALREADY VOTED) In the election for U.S. House of Representatives, whom did you vote for in the district where you live?
+
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+Candidate's name (Democrat)                          1668
+Candidate's name (Republican)                        1343
+Undecided                                              93
+Other candidate                                        42
+I would not vote                                       39
+Prefer not to say                                      11
+Candidate's name (Independent, if applicable)          10
+?                                                       4
+Candidate's name (2 nd Republican, if applicable)       3
+Candidate's name (2 nd Democrat, if applicable)         2
+
+
+pp18_polactions_7 | In the last 6 months have you, Other
+
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+No     3050
+Yes     110
+?        55
+
+
+ENRICH | As you may know, Census projections show that by 2043 African Americans, Latinos, Asians, and other mixed racial and ethnic groups will together be a majority of the population. Thinking about the likely impact of this coming demographic change, how much do you agree or disagree with each of these statements? Americans will learn more from one another and be enriched by exposure to many different cultures.
+
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+Strongly agree                1121
+Somewhat agree                 938
+Neither agree nor disagree     583
+Somewhat disagree              312
+Strongly disagree              195
+Not sure                        58
+?                                8
+
+
+POLFEE | Would you support or oppose a policy to charge pollution fees on companies that emit high levels of greenhouse gasses?
+
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+Strongly support              1524
+Somewhat support               620
+Neither support nor oppose     365
+Strongly oppose                357
+Somewhat oppose                226
+Not sure                       103
+?                               20
+
+
+pp18_polactions_3 | In the last 6 months have you, called or wrote to an elected official
+
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+No     2200
+Yes     960
+?        55
+
+
+SPEAK | Please indicate the extent to which you agree with each of the following statements. It bothers me when I come in contact with immigrants who speak little or no English.
+
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+Strongly disagree             841
+Somewhat agree                795
+Strongly agree                565
+Neither agree nor disagree    508
+Somewhat disagree             461
+Not sure                       30
+?                              15
+
+
+campaign_contact_mailer | Have you, Received printed materials in the mail from a campaign, organization or group
+
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+Yes, contacted by both                                        1823
+Yes, contacted by a Democrat or Democratic leaning group       564
+No, not contacted that way                                     418
+Yes, contacted by a Republican or Republican leaning group     410
+
+
+SOURCES_17 | In the past week, did you get news from None of these
+
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+No     3079
+Yes     136
+
+
+race3 | (recode) What racial or ethnic group best describes you?
+
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+White/other    2785
+Black           264
+Hispanic        164
+?                 2
+
+
+marstat | What is your marital status?
+
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+Married                         1868
+Never married                    542
+Divorced                         429
+Widowed                          217
+Domestic / civil partnership     112
+Separated                         47
+
+
+favor_labor | labor unions, Please rate your feelings toward each of the people, terms, and organizations below: do you feel very favorable toward them, somewhat favorable, somewhat unfavorable, very unfavorable, or have you never heard of them? RANDOMIZE
+
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+Somewhat favorable      954
+Somewhat unfavorable    686
+Very unfavorable        676
+Very favorable          667
+Don't know              219
+Never heard              13
+
+
+SOURCES_13 | In the past week, did you get news from Twitter
+
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+No     2779
+Yes     436
+
+
+union_combined_4 | Not sure if anyone in household is or has been a union member
+
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+No     3162
+Yes      53
+
+
+hispanic | Are you of Spanish, Latino, or Hispanic origin or descent?
+
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+No     3003
+Yes     212
+
+
+favor_rep | republican party, Please rate your feelings toward each of the people, terms, and organizations below: do you feel very favorable toward them, somewhat favorable, somewhat unfavorable, very unfavorable, or have you never heard of them? RANDOMIZE
+
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+Very unfavorable        1503
+Somewhat favorable       852
+Somewhat unfavorable     425
+Very favorable           386
+Don't know                37
+Never heard               12
+
+
+POP_2 | Please indicate the extent to which you agree with the following statement: The system is stacked against people like me.
+
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+Neither agree nor disagree    846
+Somewhat agree                726
+Strongly disagree             669
+Somewhat disagree             628
+Strongly agree                286
+Not sure                       47
+?                              13
+
+
+campaign_contact_emails | Have you, Received emails from a campaign, organization or group
+
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+Yes, contacted by both                                        1065
+No, not contacted that way                                     918
+Yes, contacted by a Democrat or Democratic leaning group       744
+Yes, contacted by a Republican or Republican leaning group     488
+
+
+INTELLIGENT_Whites | How intelligent or unintelligent is each group? Whites
+
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+Neither intelligent nor unintelligent    1204
+Intelligent                               949
+Somewhat intelligent                      698
+Very intelligent                          181
+Somewhat unintelligent                    104
+Very unintelligent                         32
+?                                          26
+Unintelligent                              21
+
+
+INTELLIGENT_Blacks | How intelligent or unintelligent is each group? Blacks
+
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+Neither intelligent nor unintelligent    1261
+Intelligent                               825
+Somewhat intelligent                      737
+Very intelligent                          180
+Somewhat unintelligent                    129
+?                                          39
+Very unintelligent                         22
+Unintelligent                              22
+
+
+housevote18_undecided | Even though you say you are undecided, if you had tochoose, would you say you lean more toward (Candidate A) or (Candidate B)?
+
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+?                                                     3122
+Undecided                                               46
+Lean Candidate's name (Republican)                      22
+Lean Candidate's name (Democrat)                        13
+Lean Other candidate                                     5
+I would not vote                                         4
+Lean Candidate's name (Independent, if applicable)       3
+
+
+EMOTIONS_11 | Now, when you think about voting in the upcoming elections for Congress this November, which of the following emotions best describe why you are voting? You may choose up to three responses.
+
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+No     3095
+Yes     120
+
+
+union_combined_6 | Yes, someone in household is a retired union member
+
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+No     3037
+Yes     178
+
+
+SOCIALDOMINANCE_SUPERIOR | Superior groups should dominate inferior groups
+
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+Strongly disagree             1901
+Neither agree nor disagree     562
+Somewhat disagree              550
+Somewhat agree                 108
+Strongly agree                  58
+?                               36
+
+
+favor_repcong | repub in congress, Please rate your feelings toward each of the people, terms, and organizations below: do you feel very favorable toward them, somewhat favorable, somewhat unfavorable, very unfavorable, or have you never heard of them? RANDOMIZE
+
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+Very unfavorable        1497
+Somewhat favorable       867
+Somewhat unfavorable     528
+Very favorable           256
+Don't know                60
+Never heard                7
+
+
+favor_blm | Black lives matter, Please rate your feelings toward each of the people, terms, and organizations below: do you feel very favorable toward them, somewhat favorable, somewhat unfavorable, very unfavorable, or have you never heard of them? RANDOMIZE
+
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+Very unfavorable        1127
+Somewhat favorable       804
+Very favorable           741
+Somewhat unfavorable     411
+Don't know               120
+Never heard               12
+
+
+pid3 | Generally speaking, do you think of yourself as a ...?
+
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+Democrat       1206
+Republican      954
+Independent     857
+Other           167
+Not sure         31
+
+
+SOURCES_5 | In the past week, did you get news from Local TV News
+
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+Yes    1806
+No     1409
+
+
+FLAG | Which of the following is closer to your view regarding the Confederate flag?
+
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+Southern Heritage and Culture    1551
+Slavery and White Supremacy      1417
+Don't know                        239
+?                                   8
+
+
+EMOTIONS_4 | Now, when you think about voting in the upcoming elections for Congress this November, which of the following emotions best describe why you are voting? You may choose up to three responses.
+
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+No     1777
+Yes    1438
+
+
+campaign_contact_phone | Have you, Received phone calls from a campaign, organization or group
+
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+No, not contacted that way                                    1451
+Yes, contacted by both                                         872
+Yes, contacted by a Democrat or Democratic leaning group       539
+Yes, contacted by a Republican or Republican leaning group     353
+
+
+DEPORT | Please indicate whether you favor or oppose each of the following proposals addressing immigration: Deport undocumented immigrants to their native countries.
+
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+Strongly support              1116
+Somewhat support               568
+Strongly oppose                531
+Somewhat oppose                483
+Neither support nor oppose     438
+Don't know                      61
+?                               18
+
+
+SOURCES_4 | In the past week, did you get news from Other Cable News TV Networks
+
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+No     2490
+Yes     725
+
+
+POLCORRECT | There's been a lot of talk lately about "political correctness." Some people think that the way people talk needs to change with the times to be more sensitive to people from different backgrounds. Others think that this has already gone too far and many people are just too easily offended. Which is closer to your opinion?
+
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+People are much too easily offended             1383
+The way people talk needs to change a lot        659
+The way people talk needs to change a little     632
+People are a little too easily offended          515
+?                                                 26
+
+
+religpew | What is your present religion, if any?
+
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+Protestant                   1317
+Roman Catholic                628
+Nothing in particular         475
+Agnostic                      219
+Atheist                       218
+Something else                153
+Jewish                        115
+Mormon                         41
+Buddhist                       29
+Muslim                          9
+Eastern or Greek Orthodox       8
+Hindu                           3
+
+
+race2 | (recode) What racial or ethnic group best describes you?
+
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+White        2607
+Non-white     606
+?               2
+
+
+e14_presvote12 | ask if birthyr < 1995 and votereg in 1 Which candidate did you vote for in the 2012 Presidential election?
+
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+Barack Obama       1496
+Mitt Romney        1268
+I did not vote      350
+Other candidate     100
+?                     1
+
+
+SOCIALDOMINANCE_NOTPUSH | We should not push for group equality
+
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+Strongly disagree             1104
+Neither agree nor disagree     757
+Somewhat disagree              572
+Somewhat agree                 386
+Strongly agree                 357
+?                               39
+
+
+CONSENT | Did they give consent to participate?
+
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+Yes    3215
+
+
+pid7 | Generally speaking, do you think of yourself as a ...?
+
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+Strong Democrat               950
+Strong Republican             691
+Lean Republican               387
+Lean Democrat                 362
+Independent                   285
+Not very strong Republican    263
+Not very strong Democrat      256
+Not sure                       21
+
+
+PATH | Please indicate whether you favor or oppose each of the following proposals addressing immigration: Provide a path to citizenship for some undocumented immigrants who agree to return to their home country for a period of time and pay substantial fines.
+
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+Somewhat support              871
+Neither support nor oppose    654
+Strongly oppose               621
+Somewhat oppose               445
+Strongly support              422
+Don't know                    194
+?                               8
+
+
+VOTECONF | if turnout16 == 1 How confident are you that your vote in the 2016 presidential election was counted as you intended?
+
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+Very confident                  1722
+Somewhat confident               824
+Not too confident                241
+Not at all confident             213
+?                                150
+No opinion                        54
+I did not vote for President      11
+
+
+SOURCES_3 | In the past week, did you get news from MSNBC
+
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+No     2440
+Yes     775
 
 
 WEALTH | Would you support or oppose a tax on wealth greater than $100 million?
@@ -654,33 +1061,29 @@ Not sure                        87
 ?                               29
 
 
-SOURCES_12 | In the past week, did you get news from Facebook
+EMOTIONS_3 | Now, when you think about voting in the upcoming elections for Congress this November, which of the following emotions best describe why you are voting? You may choose up to three responses.
 
 *-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
 
-No     1949
-Yes    1266
+No     2057
+Yes    1158
 
 
-EMOTIONS_2 | Now, when you think about voting in the upcoming elections for Congress this November, which of the following emotions best describe why you are voting? You may choose up to three responses.
-
-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
-
-No     2345
-Yes     870
-
-
-PUBLICINT | Would you support or oppose the creation of a publicly-owned Internet company to fill coverage gaps in rural, urban, or remote areas that currently lack robust Internet access?
+EMOTIONS_5 | Now, when you think about voting in the upcoming elections for Congress this November, which of the following emotions best describe why you are voting? You may choose up to three responses.
 
 *-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
 
-Strongly support              1022
-Somewhat support               913
-Neither support nor oppose     553
-Strongly oppose                283
-Not sure                       213
-Somewhat oppose                210
-?                               21
+No     2144
+Yes    1071
+
+
+NONVOTE_WHY_3 | I wanted to vote, but wasn't registered
+
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+?      2592
+No      573
+Yes      50
 
 
 NDIVERSE | Compared to other places near where you live, would you say your neighborhood is more diverse, or more homogeneous? 1 = More diverse; 10 = More homogeneous
@@ -700,610 +1103,38 @@ NDIVERSE | Compared to other places near where you live, would you say your neig
 ?      16
 
 
-NONVOTE_WHY_3 | I wanted to vote, but wasn't registered
+SOURCES_9 | In the past week, did you get news from National print newspapers
 
 *-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
 
-?      2592
-No      573
-Yes      50
+No     2758
+Yes     457
 
 
-djtrelct | Regardless of how you voted in 2016, with the information you have now, would you vote to re-elect Donald Trump in 2020?
-
-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
-
-No          1737
-Yes         1345
-Not sure     129
-?              4
-
-
-EMOTIONS_7 | Now, when you think about voting in the upcoming elections for Congress this November, which of the following emotions best describe why you are voting? You may choose up to three responses.
+FAVORS | Please indicate the extent to which you agree with each of the followingstatements. Irish, Italian, Jewish, and many other minorities overcame prejudice and worked their way up. Blacks should do the same without any special favors.
 
 *-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
 
-No     2726
-Yes     489
+Strongly agree                924
+Somewhat agree                694
+Strongly disagree             559
+Somewhat disagree             491
+Neither agree nor disagree    448
+No opinion                     92
+?                               7
 
 
-BAIL_item | Would you support or oppose ending cash bail for individuals awaiting trial, and instead only detaining individuals pre-trial if they were a violence or flight risk?
-
-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
-
-Somewhat support              823
-Strongly support              726
-Neither support nor oppose    505
-Strongly oppose               434
-Somewhat oppose               415
-Not sure                      288
-?                              24
-
-
-ENRICH | As you may know, Census projections show that by 2043 African Americans, Latinos, Asians, and other mixed racial and ethnic groups will together be a majority of the population. Thinking about the likely impact of this coming demographic change, how much do you agree or disagree with each of these statements? Americans will learn more from one another and be enriched by exposure to many different cultures.
+OFFEND | Please indicate the extent to which you agree with the following statements: Women are too easily offended.
 
 *-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
 
-Strongly agree                1121
-Somewhat agree                 938
-Neither agree nor disagree     583
-Somewhat disagree              312
-Strongly disagree              195
-Not sure                        58
-?                                8
-
-
-race4 | (recode) What racial or ethnic group best describes you?
-
-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
-
-White       2607
-Black        264
-Other        178
-Hispanic     164
-?              2
-
-
-union_combined_6 | Yes, someone in household is a retired union member
-
-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
-
-No     3037
-Yes     178
-
-
-campaign_contact_mailer | Have you, Received printed materials in the mail from a campaign, organization or group
-
-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
-
-Yes, contacted by both                                        1823
-Yes, contacted by a Democrat or Democratic leaning group       564
-No, not contacted that way                                     418
-Yes, contacted by a Republican or Republican leaning group     410
-
-
-union_combined_5 | Yes, retired unionmember
-
-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
-
-No     2797
-Yes     418
-
-
-CONSENT | Did they give consent to participate?
-
-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
-
-Yes    3215
-
-
-ideo5 | In general, how would you describe your own political viewpoint?
-
-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
-
-Conservative         780
-Moderate             760
-Liberal              598
-Very liberal         498
-Very conservative    492
-Not sure              87
-
-
-EMOTIONS_9 | Now, when you think about voting in the upcoming elections for Congress this November, which of the following emotions best describe why you are voting? You may choose up to three responses.
-
-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
-
-No     3059
-Yes     156
-
-
-VOTECONF | if turnout16 == 1 How confident are you that your vote in the 2016 presidential election was counted as you intended?
-
-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
-
-Very confident                  1722
-Somewhat confident               824
-Not too confident                241
-Not at all confident             213
-?                                150
-No opinion                        54
-I did not vote for President      11
-
-
-SOLITARY | Would you support or oppose ending the practice of solitary confinement in the United States?
-
-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
-
-Neither support nor oppose    727
-Strongly oppose               598
-Strongly support              558
-Somewhat oppose               557
-Somewhat support              511
-Not sure                      247
-?                              17
-
-
-SOURCES_16 | In the past week, did you get news from Other social media such as LinkedIn, Instagram, or Snapchat
-
-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
-
-No     2988
-Yes     227
-
-
-NONVOTE_WHY_7 | Other
-
-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
-
-?      2592
-No      510
-Yes     113
-
-
-favor_labor | labor unions, Please rate your feelings toward each of the people, terms, and organizations below: do you feel very favorable toward them, somewhat favorable, somewhat unfavorable, very unfavorable, or have you never heard of them? RANDOMIZE
-
-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
-
-Somewhat favorable      954
-Somewhat unfavorable    686
-Very unfavorable        676
-Very favorable          667
-Don't know              219
-Never heard              13
-
-
-union_combined_4 | Not sure if anyone in household is or has been a union member
-
-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
-
-No     3162
-Yes      53
-
-
-FREECOLL | Would you support or oppose a law that would raise taxes on income in excess of $200,000 per year by 5 percent in order to cover college tuition for all students, while capping the rise in tuition at the rate of inflation for all colleges accepting such funding?
-
-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
-
-Strongly support              967
-Strongly oppose               893
-Somewhat support              602
-Somewhat oppose               313
-Neither support nor oppose    302
-Not sure                      124
-?                              14
-
-
-race2 | (recode) What racial or ethnic group best describes you?
-
-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
-
-White        2607
-Non-white     606
-?               2
-
-
-EMOTIONS_12 | Now, when you think about voting in the upcoming elections for Congress this November, which of the following emotions best describe why you are voting? You may choose up to three responses.
-
-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
-
-No     3153
-Yes      62
-
-
-EMOTIONS_1 | Now, when you think about voting in the upcoming elections for Congress this November, which of the following emotions best describe why you are voting? You may choose up to three responses.
-
-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
-
-No     2260
-Yes     955
-
-
-SPEAK | Please indicate the extent to which you agree with each of the following statements. It bothers me when I come in contact with immigrants who speak little or no English.
-
-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
-
-Strongly disagree             841
-Somewhat agree                795
-Strongly agree                565
-Neither agree nor disagree    508
-Somewhat disagree             461
-Not sure                       30
-?                              15
-
-
-favor_dem | democratic party, Please rate your feelings toward each of the people, terms, and organizations below: do you feel very favorable toward them, somewhat favorable, somewhat unfavorable, very unfavorable, or have you never heard of them? RANDOMIZE
-
-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
-
-Very unfavorable        1352
-Somewhat favorable       906
-Very favorable           576
-Somewhat unfavorable     347
-Don't know                33
-Never heard                1
-
-
-favor_dtrump | donald trump, Please rate your feelings toward each of the people, terms, and organizations below: do you feel very favorable toward them, somewhat favorable, somewhat unfavorable, very unfavorable, or have you never heard of them? RANDOMIZE
-
-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
-
-Very unfavorable        1623
-Very favorable           975
-Somewhat favorable       446
-Somewhat unfavorable     138
-Don't know                27
-Never heard                6
-
-
-SOURCES_1 | In the past week, did you get news from CNN
-
-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
-
-No     2277
-Yes     938
-
-
-dtrpsupp | (ASK ONLY REPUBLICANS) Do you consider yourself more a supporterof President Donald Trump or a supporter of the Republican Party?
-
-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
-
-?                                       1875
-Trump supporter, strongly                838
-Trump supporter, somewhat                207
-Republican Party supporter, somewhat     151
-Republican Party supporter, strongly     111
-Not sure                                  33
-
-
-PUBLICGEN | Would you support or oppose having the government produce generic versions of life-saving drugs, even if it required revoking patents held by pharmaceutical companies?
-
-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
-
-Strongly support              1090
-Somewhat support               758
-Neither support nor oppose     393
-Somewhat oppose                365
-Strongly oppose                335
-Not sure                       248
-?                               26
-
-
-INTELLIGENT_Blacks | How intelligent or unintelligent is each group? Blacks
-
-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
-
-Neither intelligent nor unintelligent    1261
-Intelligent                               825
-Somewhat intelligent                      737
-Very intelligent                          180
-Somewhat unintelligent                    129
-?                                          39
-Very unintelligent                         22
-Unintelligent                              22
-
-
-senvote18 | (ASK ONLY IN 2018 SENATE STATES) (IF NOT ALREADY VOTED) If the election for U.S. Senator of (state) were being held today, whom would you vote for?(IF ALREADY VOTED) In the election for U.S. Senator of (state), whom did you vote for?
-
-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
-
-Candidate's name (Democrat)                       1149
-?                                                  929
-Candidate's name (Republican)                      885
-Candidate's name (2nd Democrat, if applicable)      88
-Undecided                                           57
-I would not vote                                    45
-Other candidate                                     30
-Candidate's name (Independent, if applicable)       24
-Prefer not to say                                    8
-
-
-union_combined_1 | Yes, current union member
-
-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
-
-No     3050
-Yes     165
-
-
-votereg | Are you registered to vote?
-
-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
-
-Yes    3215
-
-
-pp18_polactions_3 | In the last 6 months have you, called or wrote to an elected official
-
-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
-
-No     2200
-Yes     960
-?        55
-
-
-EMOTIONS_13 | Now, when you think about voting in the upcoming elections for Congress this November, which of the following emotions best describe why you are voting? You may choose up to three responses.
-
-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
-
-No     3141
-Yes      74
-
-
-NONVOTE_WHY_2 | I didn't feel that any of the candidates represented my views
-
-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
-
-?      2592
-No      475
-Yes     148
-
-
-educ4 | (recode) What is the highest level of education you have completed?
-
-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
-
-Some college           1475
-College grad            754
-Postgrad                575
-High school or less     411
-
-
-M4A | Would you support or oppose expanding Medicare such that it becomes the main health insurance provider for all Americans?
-
-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
-
-Strongly support              1100
-Strongly oppose                937
-Somewhat support               482
-Neither support nor oppose     301
-Somewhat oppose                233
-Not sure                       143
-?                               19
-
-
-EMOTIONS_15 | Now, when you think about voting in the upcoming elections for Congress this November, which of the following emotions best describe why you are voting? You may choose up to three responses.
-
-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
-
-No     2988
-Yes     227
-
-
-APPRECIATE | Please indicate the extent to which you agree with the following statements: Most women fail to appreciate fully all that men do for them.
-
-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
-
-Strongly disagree             1157
-Neither agree nor disagree     740
-Somewhat disagree              559
-Somewhat agree                 473
-Strongly agree                 209
-Don't know                      58
-?                               19
-
-
-EMOTIONS_17 | Now, when you think about voting in the upcoming elections for Congress this November, which of the following emotions best describe why you are voting? You may choose up to three responses.
-
-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
-
-No     3133
-Yes      82
-
-
-EMOTIONS_16 | Now, when you think about voting in the upcoming elections for Congress this November, which of the following emotions best describe why you are voting? You may choose up to three responses.
-
-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
-
-No     3036
-Yes     179
-
-
-race3 | (recode) What racial or ethnic group best describes you?
-
-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
-
-White/other    2785
-Black           264
-Hispanic        164
-?                 2
-
-
-EMPATHY | Please indicate the extent to which you agree with each of the followingstatements. I am angry that racism exists.
-
-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
-
-Strongly agree                1974
-Somewhat agree                 680
-Neither agree nor disagree     375
-No opinion                      60
-Strongly disagree               58
-Somewhat disagree               56
-?                               12
-
-
-favor_aca | affordable care act or obamacare, Please rate your feelings toward each of the people, terms, and organizations below: do you feel very favorable toward them, somewhat favorable, somewhat unfavorable, very unfavorable, or have you never heard of them? RANDOMIZE
-
-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
-
-Very unfavorable        1215
-Very favorable           996
-Somewhat favorable       643
-Somewhat unfavorable     296
-Don't know                62
-Never heard                3
-
-
-SOURCES_3 | In the past week, did you get news from MSNBC
-
-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
-
-No     2440
-Yes     775
-
-
-pid7 | Generally speaking, do you think of yourself as a ...?
-
-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
-
-Strong Democrat               950
-Strong Republican             691
-Lean Republican               387
-Lean Democrat                 362
-Independent                   285
-Not very strong Republican    263
-Not very strong Democrat      256
-Not sure                       21
-
-
-campaign_contact_TVads | Have you, Saw political ads on television
-
-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
-
-Yes, contacted by both                                        2138
-No, not contacted that way                                     597
-Yes, contacted by a Democrat or Democratic leaning group       248
-Yes, contacted by a Republican or Republican leaning group     232
-
-
-MARREP | In states where marijuana is legal, would you support or oppose requiring that any tax revenues collected from its sale be re-invested in communities disproportionately affected by the War on Drugs?
-
-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
-
-Somewhat support              924
-Strongly support              826
-Neither support nor oppose    719
-Not sure                      255
-Somewhat oppose               237
-Strongly oppose               231
-?                              23
-
-
-housevote16post | ask if turnout16=1 In the election for U.S. House of Representatives in November of 2016, who did you vote for in the district where you lived?
-
-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
-
-The Democratic candidate                                 1527
-The Republican candidate                                 1397
-?                                                         154
-Another candidate                                          86
-Did not vote for a representative in Congress in 2016      51
-
-
-race | What racial or ethnic group best describes you?
-
-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
-
-White                        2607
-Black or African-American     264
-Hispanic or Latino            164
-Mixed Race                     69
-Other                          53
-Asian or Asian-American        37
-Native American                19
-Middle Eastern                  2
-
-
-pp18_polactions_1 | Volunteered for a candidate, political party, or other political organization
-
-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
-
-No     2845
-Yes     315
-?        55
-
-
-EMOTIONS_4 | Now, when you think about voting in the upcoming elections for Congress this November, which of the following emotions best describe why you are voting? You may choose up to three responses.
-
-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
-
-No     1777
-Yes    1438
-
-
-SERVICES | As you may know, Census projections show that by 2043 African Americans, Latinos, Asians, and other mixed racial and ethnic groups will together be a majority of the population. Thinking about the likely impact of this coming demographic change, how much do you agree or disagree with each of these statements? There will be too many demands on government services.
-
-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
-
-Strongly agree                771
-Neither agree nor disagree    675
-Somewhat agree                643
-Strongly disagree             588
-Somewhat disagree             410
-Not sure                      106
-?                              22
-
-
-POP_3 | Please indicate the extent to which you agree with the following statement: I'd rather put my trust in the wisdom of ordinary people than in the opinions of experts and intellectuals.
-
-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
-
-Neither agree nor disagree    807
-Somewhat agree                801
-Somewhat disagree             678
-Strongly disagree             452
-Strongly agree                394
-Not sure                       61
-?                              22
-
-
-SOCIALDOMINANCE_SUPERIOR | Superior groups should dominate inferior groups
-
-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
-
-Strongly disagree             1901
-Neither agree nor disagree     562
-Somewhat disagree              550
-Somewhat agree                 108
-Strongly agree                  58
-?                               36
-
-
-direct | Generally speaking, do you think that things in this country are going in the right direction, or do you feel things have gotten pretty seriously off on the wrong track?
-
-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
-
-Wrong track        1798
-Right direction    1233
-Not sure            184
-
-
-pid3 | Generally speaking, do you think of yourself as a ...?
-
-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
-
-Democrat       1206
-Republican      954
-Independent     857
-Other           167
-Not sure         31
-
-
-SOURCES_4 | In the past week, did you get news from Other Cable News TV Networks
-
-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
-
-No     2490
-Yes     725
+Strongly disagree             925
+Somewhat agree                769
+Neither agree nor disagree    622
+Somewhat disagree             481
+Strongly agree                348
+Don't know                     51
+?                              19
 
 
 pew_churatd | Aside from weddings and funerals, how often do you attend religiousservices?
@@ -1319,45 +1150,64 @@ Once or twice a month    221
 Don't know                28
 
 
-campaign_contact_socialmedia | Have you, Contacted by a campaign, organization or groupthrough social media
+pp18_polactions_1 | Volunteered for a candidate, political party, or other political organization
 
 *-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
 
-No, not contacted that way                                    1729
-Yes, contacted by both                                         766
-Yes, contacted by a Democrat or Democratic leaning group       455
-Yes, contacted by a Republican or Republican leaning group     265
+No     2845
+Yes     315
+?        55
 
 
-campaign_contact_emails | Have you, Received emails from a campaign, organization or group
-
-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
-
-Yes, contacted by both                                        1065
-No, not contacted that way                                     918
-Yes, contacted by a Democrat or Democratic leaning group       744
-Yes, contacted by a Republican or Republican leaning group     488
-
-
-EMOTIONS_3 | Now, when you think about voting in the upcoming elections for Congress this November, which of the following emotions best describe why you are voting? You may choose up to three responses.
+pp18_polactions_5 | In the last 6 months have you, posted about politics on social media
 
 *-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
 
-No     2057
-Yes    1158
+No     1973
+Yes    1187
+?        55
 
 
-GREENJOB | Would you support or oppose giving every unemployed American who wants one a job building energy-efficient infrastructure?
+EMOTIONS_8 | Now, when you think about voting in the upcoming elections for Congress this November, which of the following emotions best describe why you are voting? You may choose up to three responses.
 
 *-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
 
-Strongly support              1204
-Somewhat support               944
-Neither support nor oppose     470
-Strongly oppose                227
-Not sure                       189
-Somewhat oppose                153
-?                               28
+No     3133
+Yes      82
+
+
+age5 | (recode) What is your age?
+
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+65+      1302
+50-64    1094
+40-49     358
+30-39     294
+18-29     167
+
+
+presvote16post | ask if turnout16=1 Who did you vote for in the election for President?
+
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+Hillary Clinton               1456
+Donald Trump                  1343
+Did not vote for President     167
+Gary Johnson                   102
+Jill Stein                      63
+Other                           58
+Evan McMullin                   23
+?                                3
+
+
+pp18_polactions_8 | In the last 6 months have you, I have not done any of the above
+
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+No     1858
+Yes    1302
+?        55
 
 
 faminc_new | Thinking back over the last year, what was your family's annual income?
@@ -1383,17 +1233,364 @@ $500,000 or more        14
 $350,000 - $499,999     10
 
 
-OFFEND | Please indicate the extent to which you agree with the following statements: Women are too easily offended.
+senvote18 | (ASK ONLY IN 2018 SENATE STATES) (IF NOT ALREADY VOTED) If the election for U.S. Senator of (state) were being held today, whom would you vote for?(IF ALREADY VOTED) In the election for U.S. Senator of (state), whom did you vote for?
 
 *-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
 
-Strongly disagree             925
-Somewhat agree                769
-Neither agree nor disagree    622
-Somewhat disagree             481
-Strongly agree                348
-Don't know                     51
-?                              19
+Candidate's name (Democrat)                       1149
+?                                                  929
+Candidate's name (Republican)                      885
+Candidate's name (2nd Democrat, if applicable)      88
+Undecided                                           57
+I would not vote                                    45
+Other candidate                                     30
+Candidate's name (Independent, if applicable)       24
+Prefer not to say                                    8
+
+
+direct | Generally speaking, do you think that things in this country are going in the right direction, or do you feel things have gotten pretty seriously off on the wrong track?
+
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+Wrong track        1798
+Right direction    1233
+Not sure            184
+
+
+GREENJOB | Would you support or oppose giving every unemployed American who wants one a job building energy-efficient infrastructure?
+
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+Strongly support              1204
+Somewhat support               944
+Neither support nor oppose     470
+Strongly oppose                227
+Not sure                       189
+Somewhat oppose                153
+?                               28
+
+
+race | What racial or ethnic group best describes you?
+
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+White                        2607
+Black or African-American     264
+Hispanic or Latino            164
+Mixed Race                     69
+Other                          53
+Asian or Asian-American        37
+Native American                19
+Middle Eastern                  2
+
+
+MARREP | In states where marijuana is legal, would you support or oppose requiring that any tax revenues collected from its sale be re-invested in communities disproportionately affected by the War on Drugs?
+
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+Somewhat support              924
+Strongly support              826
+Neither support nor oppose    719
+Not sure                      255
+Somewhat oppose               237
+Strongly oppose               231
+?                              23
+
+
+employ | Which of the following best describes your current employment status?
+
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+Retired                          1244
+Working full time now            1034
+Working part time now             318
+Permanently disabled              231
+Taking care of home or family     158
+Unemployed                         96
+Student                            65
+Other job                          56
+Temporarily laid off               13
+
+
+educ | What is the highest level of education you have completed?
+
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+Some college, but no degree (yet)                   945
+4-year college degree                               754
+Postgraduate degree (MA, MBA, MD, JD, PhD, etc.)    575
+2-year college degree                               530
+High school graduate                                369
+Did not graduate from high school                    42
+
+
+govvote18_undecided | Even though you say you are undecided, if you had tochoose, would you say you lean more toward (Candidate A) or (Candidate B)?
+
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+?                                                         3183
+Undecided                                                   19
+Lean Candidate's name (Republican)                           8
+Lean Candidate's name (Democrat)                             3
+Lean Candidate's name (2nd Independent, if applicable)       1
+I would not vote                                             1
+
+
+votereg | Are you registered to vote?
+
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+Yes    3215
+
+
+LAZY_Blacks | How lazy or hardworking is each group? Blacks
+
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+Neither lazy nor hardworking    1112
+Hardworking                      672
+Somewhat hardworking             633
+Somewhat lazy                    401
+Very hardworking                 227
+Lazy                              88
+Very lazy                         52
+?                                 30
+
+
+PUBLICGEN | Would you support or oppose having the government produce generic versions of life-saving drugs, even if it required revoking patents held by pharmaceutical companies?
+
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+Strongly support              1090
+Somewhat support               758
+Neither support nor oppose     393
+Somewhat oppose                365
+Strongly oppose                335
+Not sure                       248
+?                               26
+
+
+NONVOTE_WHY_6 | I wanted to vote, but didn't have a required form of identification
+
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+?      2592
+No      610
+Yes      13
+
+
+educ2 | (recode) What is the highest level of education you have completed?
+
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+Less than college    1886
+College              1329
+
+
+senvote18_undecided | Even though you say you are undecided, if you had tochoose, would you say you lean more toward (Candidate A) or (Candidate B)?
+
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+?                                                      3158
+Undecided                                                28
+Lean Candidate's name (Republican)                       10
+Lean Candidate's name (Democrat)                         10
+Lean Other candidate                                      3
+Lean Candidate's name (2nd Democrat, if applicable)       2
+Lean Candidate's name (Independent, if applicable)        2
+I would not vote                                          2
+
+
+WELTEST | Would you support or oppose requiring recipients of government aid such as food assistance or Medicaid to pass a drug test in order to receive those benefits?
+
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+Strongly support              1392
+Strongly oppose                675
+Somewhat support               513
+Somewhat oppose                293
+Neither support nor oppose     256
+Not sure                        66
+?                               20
+
+
+SOURCES_2 | In the past week, did you get news from Fox News
+
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+No     2088
+Yes    1127
+
+
+educ4 | (recode) What is the highest level of education you have completed?
+
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+Some college           1475
+College grad            754
+Postgrad                575
+High school or less     411
+
+
+pp18_polactions_2 | In the last 6 months have you attended a rally or protest
+
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+No     2767
+Yes     393
+?        55
+
+
+POP_1 | Please indicate the extent to which you agree with the following statement: It doesn't really matter who you vote for because the rich control both political parties.
+
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+Somewhat agree                896
+Strongly disagree             798
+Somewhat disagree             674
+Neither agree nor disagree    441
+Strongly agree                334
+Not sure                       51
+?                              21
+
+
+housevote16post | ask if turnout16=1 In the election for U.S. House of Representatives in November of 2016, who did you vote for in the district where you lived?
+
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+The Democratic candidate                                 1527
+The Republican candidate                                 1397
+?                                                         154
+Another candidate                                          86
+Did not vote for a representative in Congress in 2016      51
+
+
+EMOTIONS_15 | Now, when you think about voting in the upcoming elections for Congress this November, which of the following emotions best describe why you are voting? You may choose up to three responses.
+
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+No     2988
+Yes     227
+
+
+union_combined_1 | Yes, current union member
+
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+No     3050
+Yes     165
+
+
+EMOTIONS_6 | Now, when you think about voting in the upcoming elections for Congress this November, which of the following emotions best describe why you are voting? You may choose up to three responses.
+
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+No     2653
+Yes     562
+
+
+favor_metoo | \#metoo, Please rate your feelings toward each of the people, terms, and organizations below: do you feel very favorable toward them, somewhat favorable, somewhat unfavorable, very unfavorable, or have you never heard of them? RANDOMIZE
+
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+Very unfavorable        846
+Very favorable          809
+Somewhat favorable      800
+Somewhat unfavorable    499
+Don't know              180
+Never heard              81
+
+
+SOURCES_1 | In the past week, did you get news from CNN
+
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+No     2277
+Yes     938
+
+
+SOURCES_8 | In the past week, did you get news from Your local daily print newspaper
+
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+No     2279
+Yes     936
+
+
+EMOTIONS_2 | Now, when you think about voting in the upcoming elections for Congress this November, which of the following emotions best describe why you are voting? You may choose up to three responses.
+
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+No     2345
+Yes     870
+
+
+pp18_polactions_4 | In the last 6 months have you, attended a town hall held by an elected official
+
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+No     2895
+Yes     265
+?        55
+
+
+REMARKS | Please indicate the extent to which you agree with the following statements: Most women interpret innocent remarks or acts as being sexist.
+
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+Strongly disagree             840
+Somewhat agree                734
+Neither agree nor disagree    635
+Somewhat disagree             622
+Strongly agree                285
+Don't know                     85
+?                              14
+
+
+app_dtrmp | Do you approve or disapprove of the way Donald Trump is handling his job as President?
+
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+Strongly disapprove    1579
+Strongly approve        956
+Somewhat approve        465
+Somewhat disapprove     183
+Not sure                 32
+
+
+MARLEG | Would you support or oppose fully legalizing marijuana at the national level?
+
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+Strongly support              1272
+Strongly oppose                724
+Somewhat support               530
+Neither support nor oppose     334
+Somewhat oppose                267
+Not sure                        74
+?                               14
+
+
+race4 | (recode) What racial or ethnic group best describes you?
+
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+White       2607
+Black        264
+Other        178
+Hispanic     164
+?              2
+
+
+suprpty | Which of the following best describes you?
+
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+I have always been a supporter of the Democratic Party                                             1198
+I have always been a supporter of the Republican Party                                              827
+I was a supporter of the Democratic Party, but have switched to supporting the Republican Party     517
+Not sure                                                                                            356
+I was a supporter of the Republican Party, but have switched to supporting the Democratic Party     317
 
 
 ICE | Would you support or oppose defunding Immigration and Customs Enforcement (ICE)?
@@ -1409,110 +1606,124 @@ Not sure                       176
 ?                               17
 
 
-religpew | What is your present religion, if any?
+specsenvote18_undecided | Even though you say you are undecided, if you had tochoose, would you say you lean more toward (Candidate A) or (Candidate B)?
 
 *-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
 
-Protestant                   1317
-Roman Catholic                628
-Nothing in particular         475
-Agnostic                      219
-Atheist                       218
-Something else                153
-Jewish                        115
-Mormon                         41
-Buddhist                       29
-Muslim                          9
-Eastern or Greek Orthodox       8
-Hindu                           3
+?            3213
+Undecided       2
 
 
-favor_repcong | repub in congress, Please rate your feelings toward each of the people, terms, and organizations below: do you feel very favorable toward them, somewhat favorable, somewhat unfavorable, very unfavorable, or have you never heard of them? RANDOMIZE
+EMOTIONS_16 | Now, when you think about voting in the upcoming elections for Congress this November, which of the following emotions best describe why you are voting? You may choose up to three responses.
 
 *-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
 
-Very unfavorable        1497
-Somewhat favorable       867
-Somewhat unfavorable     528
-Very favorable           256
-Don't know                60
-Never heard                7
+No     3036
+Yes     179
 
 
-union_combined_2 | Yes, someone in household is a current union member
+BAIL_item | Would you support or oppose ending cash bail for individuals awaiting trial, and instead only detaining individuals pre-trial if they were a violence or flight risk?
 
 *-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
 
-No     3070
-Yes     145
+Somewhat support              823
+Strongly support              726
+Neither support nor oppose    505
+Strongly oppose               434
+Somewhat oppose               415
+Not sure                      288
+?                              24
 
 
-favor_blm | Black lives matter, Please rate your feelings toward each of the people, terms, and organizations below: do you feel very favorable toward them, somewhat favorable, somewhat unfavorable, very unfavorable, or have you never heard of them? RANDOMIZE
-
-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
-
-Very unfavorable        1127
-Somewhat favorable       804
-Very favorable           741
-Somewhat unfavorable     411
-Don't know               120
-Never heard               12
-
-
-EMOTIONS_5 | Now, when you think about voting in the upcoming elections for Congress this November, which of the following emotions best describe why you are voting? You may choose up to three responses.
+AVR | Would you support or oppose a policy where all eligible US citizens would be automatically registered to vote (unless they opt out) when applying for licenses and other IDs at DMVs, Medicaid offices, healthcare exchanges and other public agencies?
 
 *-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
 
-No     2144
-Yes    1071
+Strongly support              1385
+Strongly oppose                614
+Somewhat support               521
+Neither support nor oppose     316
+Somewhat oppose                273
+Not sure                        86
+?                               20
 
 
-JOBS | As you may know, Census projections show that by 2043 African Americans, Latinos, Asians, and other mixed racial and ethnic groups will together be a majority of the population. Thinking about the likely impact of this coming demographic change, how much do you agree or disagree with each of these statements? There will not be enough jobs for everybody.
-
-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
-
-Neither agree nor disagree    751
-Strongly disagree             706
-Somewhat disagree             680
-Somewhat agree                548
-Strongly agree                392
-Not sure                      119
-?                              19
-
-
-pid7_oths | Do you think of yourself as closer to the Democratic or the Republican Party?
+pid7_reps | Would you call yourself a strong Republican or a not very strong Republican?
 
 *-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
 
-?                       2160
-The Republican Party     387
-The Democratic Party     362
-Neither                  285
-Not sure                  21
+?                             2261
+Strong Republican              691
+Not very strong Republican     263
 
 
-suprpty | Which of the following best describes you?
+CUSTOMS | Please indicate the extent to which you agree with each of the following statements. The growing number of newcomers from other countries threatens traditional American customs and values.
 
 *-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
 
-I have always been a supporter of the Democratic Party                                             1198
-I have always been a supporter of the Republican Party                                              827
-I was a supporter of the Democratic Party, but have switched to supporting the Republican Party     517
-Not sure                                                                                            356
-I was a supporter of the Republican Party, but have switched to supporting the Democratic Party     317
+Strongly disagree             1044
+Strongly agree                 721
+Somewhat agree                 612
+Neither agree nor disagree     396
+Somewhat disagree              382
+Not sure                        45
+?                               15
 
 
-POP_1 | Please indicate the extent to which you agree with the following statement: It doesn't really matter who you vote for because the rich control both political parties.
+campaign_contact_text | Have you, Received a text message from a campaign, organization or group
 
 *-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
 
-Somewhat agree                896
-Strongly disagree             798
-Somewhat disagree             674
-Neither agree nor disagree    441
-Strongly agree                334
-Not sure                       51
-?                              21
+No, not contacted that way                                    1722
+Yes, contacted by a Democrat or Democratic leaning group       666
+Yes, contacted by both                                         466
+Yes, contacted by a Republican or Republican leaning group     361
+
+
+SERVICES | As you may know, Census projections show that by 2043 African Americans, Latinos, Asians, and other mixed racial and ethnic groups will together be a majority of the population. Thinking about the likely impact of this coming demographic change, how much do you agree or disagree with each of these statements? There will be too many demands on government services.
+
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+Strongly agree                771
+Neither agree nor disagree    675
+Somewhat agree                643
+Strongly disagree             588
+Somewhat disagree             410
+Not sure                      106
+?                              22
+
+
+GUNS | Which of the following is closest to your view on gun regulations?
+
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+It should be more difficult to buy all types of guns                      1182
+It should be more difficult to buy some types of guns                      782
+The current regulations regarding the purchase of guns are about right     760
+It should be less difficult to buy all types of guns                       251
+It should be less difficult to buy some types of guns                      151
+Not sure                                                                    70
+?                                                                           19
+
+
+dtrpsupp | (ASK ONLY REPUBLICANS) Do you consider yourself more a supporterof President Donald Trump or a supporter of the Republican Party?
+
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+?                                       1875
+Trump supporter, strongly                838
+Trump supporter, somewhat                207
+Republican Party supporter, somewhat     151
+Republican Party supporter, strongly     111
+Not sure                                  33
+
+
+EMOTIONS_12 | Now, when you think about voting in the upcoming elections for Congress this November, which of the following emotions best describe why you are voting? You may choose up to three responses.
+
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+No     3153
+Yes      62
 
 
 govvote18 | (ASK ONLY IN 2018 GOVERNOR STATES) (IF NOT ALREADY VOTED) Ifthe election for Governor of (state) were being held today, whom would you vote for? (IF ALREADY VOTED) In the election for Governor of (state), whom did you vote for?
@@ -1530,279 +1741,37 @@ Prefer not to say                                       9
 Candidate's name (Independent, if applicable)           8
 
 
-NONVOTE_WHY_6 | I wanted to vote, but didn't have a required form of identification
+favor_aca | affordable care act or obamacare, Please rate your feelings toward each of the people, terms, and organizations below: do you feel very favorable toward them, somewhat favorable, somewhat unfavorable, very unfavorable, or have you never heard of them? RANDOMIZE
+
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+Very unfavorable        1215
+Very favorable           996
+Somewhat favorable       643
+Somewhat unfavorable     296
+Don't know                62
+Never heard                3
+
+
+NONVOTE_WHY_2 | I didn't feel that any of the candidates represented my views
 
 *-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
 
 ?      2592
-No      610
-Yes      13
+No      475
+Yes     148
 
 
-EMOTIONS_10 | Now, when you think about voting in the upcoming elections for Congress this November, which of the following emotions best describe why you are voting? You may choose up to three responses.
-
-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
-
-No     2679
-Yes     536
-
-
-pp18_polactions_4 | In the last 6 months have you, attended a town hall held by an elected official
+FINPREP | Thinking about your household's finances today, could you cover a $400 emergency expense without borrowing it or taking on debt?
 
 *-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
 
-No     2895
-Yes     265
-?        55
-
-
-favor_mcconnell | mitch mcconnell, Please rate your feelings toward each of the people, terms, and organizations below: do you feel very favorable toward them, somewhat favorable, somewhat unfavorable, very unfavorable, or have you never heard of them? RANDOMIZE
-
-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
-
-Very unfavorable        1437
-Somewhat favorable       754
-Somewhat unfavorable     430
-Don't know               330
-Very favorable           176
-Never heard               88
-
-
-POP_2 | Please indicate the extent to which you agree with the following statement: The system is stacked against people like me.
-
-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
-
-Neither agree nor disagree    846
-Somewhat agree                726
-Strongly disagree             669
-Somewhat disagree             628
-Strongly agree                286
-Not sure                       47
-?                              13
-
-
-MARAM | Some people are currently incarcerated for marijuana-related offenses in states where marijuana has since been legalized. Do you support or oppose releasing these people from prison?
-
-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
-
-Strongly support              1383
-Somewhat support               839
-Neither support nor oppose     406
-Somewhat oppose                255
-Strongly oppose                191
-Not sure                       124
-?                               17
-
-
-EMOTIONS_8 | Now, when you think about voting in the upcoming elections for Congress this November, which of the following emotions best describe why you are voting? You may choose up to three responses.
-
-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
-
-No     3133
-Yes      82
-
-
-pid7_reps | Would you call yourself a strong Republican or a not very strong Republican?
-
-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
-
-?                             2261
-Strong Republican              691
-Not very strong Republican     263
-
-
-INSTITUTION | Please indicate the extent to which you agree with each of thefollowing statements. White people in the U.S. have certain advantages because ofthe color of their skin.
-
-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
-
-Strongly agree                1044
-Somewhat agree                 685
-Strongly disagree              605
-Neither agree nor disagree     418
-Somewhat disagree              409
-No opinion                      42
-?                               12
-
-
-INTELLIGENT_Latinos | How intelligent or unintelligent is each group? Latinos
-
-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
-
-Neither intelligent nor unintelligent    1330
-Intelligent                               816
-Somewhat intelligent                      717
-Very intelligent                          144
-Somewhat unintelligent                    134
-?                                          43
-Very unintelligent                         17
-Unintelligent                              14
-
-
-GUNS | Which of the following is closest to your view on gun regulations?
-
-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
-
-It should be more difficult to buy all types of guns                      1182
-It should be more difficult to buy some types of guns                      782
-The current regulations regarding the purchase of guns are about right     760
-It should be less difficult to buy all types of guns                       251
-It should be less difficult to buy some types of guns                      151
-Not sure                                                                    70
-?                                                                           19
-
-
-FAVORS | Please indicate the extent to which you agree with each of the followingstatements. Irish, Italian, Jewish, and many other minorities overcame prejudice and worked their way up. Blacks should do the same without any special favors.
-
-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
-
-Strongly agree                924
-Somewhat agree                694
-Strongly disagree             559
-Somewhat disagree             491
-Neither agree nor disagree    448
-No opinion                     92
-?                               7
-
-
-app_dtrmp | Do you approve or disapprove of the way Donald Trump is handling his job as President?
-
-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
-
-Strongly disapprove    1579
-Strongly approve        956
-Somewhat approve        465
-Somewhat disapprove     183
-Not sure                 32
-
-
-PATH | Please indicate whether you favor or oppose each of the following proposals addressing immigration: Provide a path to citizenship for some undocumented immigrants who agree to return to their home country for a period of time and pay substantial fines.
-
-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
-
-Somewhat support              871
-Neither support nor oppose    654
-Strongly oppose               621
-Somewhat oppose               445
-Strongly support              422
-Don't know                    194
-?                               8
-
-
-pp18_polactions_8 | In the last 6 months have you, I have not done any of the above
-
-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
-
-No     1858
-Yes    1302
-?        55
-
-
-LAZY_Whites | How lazy or hardworking is each group? Whites
-
-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
-
-Neither lazy nor hardworking    1091
-Somewhat hardworking             773
-Hardworking                      723
-Somewhat lazy                    344
-Very hardworking                 152
-Lazy                              63
-?                                 35
-Very lazy                         34
-
-
-housevote18 | If the election for U.S. House of Representatives were being heldtoday, who would you vote for in the district where you live?(IF NOT ALREADY VOTED) If the election for U.S. House of Representatives were being held today, whom would you vote for in the district where you live? (IF ALREADY VOTED) In the election for U.S. House of Representatives, whom did you vote for in the district where you live?
-
-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
-
-Candidate's name (Democrat)                          1668
-Candidate's name (Republican)                        1343
-Undecided                                              93
-Other candidate                                        42
-I would not vote                                       39
-Prefer not to say                                      11
-Candidate's name (Independent, if applicable)          10
-?                                                       4
-Candidate's name (2 nd Republican, if applicable)       3
-Candidate's name (2 nd Democrat, if applicable)         2
-
-
-WELTEST | Would you support or oppose requiring recipients of government aid such as food assistance or Medicaid to pass a drug test in order to receive those benefits?
-
-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
-
-Strongly support              1392
-Strongly oppose                675
-Somewhat support               513
-Somewhat oppose                293
-Neither support nor oppose     256
-Not sure                        66
-?                               20
-
-
-POLCORRECT | There's been a lot of talk lately about "political correctness." Some people think that the way people talk needs to change with the times to be more sensitive to people from different backgrounds. Others think that this has already gone too far and many people are just too easily offended. Which is closer to your opinion?
-
-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
-
-People are much too easily offended             1383
-The way people talk needs to change a lot        659
-The way people talk needs to change a little     632
-People are a little too easily offended          515
-?                                                 26
-
-
-gender | What is your gender?
-
-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
-
-Female    1756
-Male      1459
-
-
-EMOTIONS_6 | Now, when you think about voting in the upcoming elections for Congress this November, which of the following emotions best describe why you are voting? You may choose up to three responses.
-
-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
-
-No     2653
-Yes     562
-
-
-NONVOTE_WHY_4 | I wanted to vote, but didn't have time/was too busy that day
-
-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
-
-?      2592
-No      441
-Yes     182
-
-
-REMARKS | Please indicate the extent to which you agree with the following statements: Most women interpret innocent remarks or acts as being sexist.
-
-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
-
-Strongly disagree             840
-Somewhat agree                734
-Neither agree nor disagree    635
-Somewhat disagree             622
-Strongly agree                285
-Don't know                     85
-?                              14
-
-
-SOURCES_2 | In the past week, did you get news from Fox News
-
-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
-
-No     2088
-Yes    1127
-
-
-SOURCES_11 | In the past week, did you get news from Late night comedy shows
-
-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
-
-No     2785
-Yes     430
+Yes, definitely       1743
+Yes, probably          575
+No, definitely not     416
+No, probably not       291
+Not sure               175
+?                       15
 
 
 LINKFATE | Please indicate the extent to which you agree with the following statement: What happens generally to $raceval2 in this country  will have something to do with what happens in your life.
@@ -1817,49 +1786,97 @@ Strongly disagree              161
 ?                               14
 
 
-e14_presvote12 | ask if birthyr < 1995 and votereg in 1 Which candidate did you vote for in the 2012 Presidential election?
+EMOTIONS_1 | Now, when you think about voting in the upcoming elections for Congress this November, which of the following emotions best describe why you are voting? You may choose up to three responses.
 
 *-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
 
-Barack Obama       1496
-Mitt Romney        1268
-I did not vote      350
-Other candidate     100
-?                     1
+No     2260
+Yes     955
 
 
-pp18_polactions_7 | In the last 6 months have you, Other
+BOND | Would you support or oppose giving every American a $5,000 savings account at birth that they can access when they turn 18, paid for by raising taxes on estates worth $10,000,000?
 
 *-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
 
-No     3050
-Yes     110
-?        55
+Strongly oppose               1096
+Strongly support               667
+Somewhat support               460
+Neither support nor oppose     459
+Somewhat oppose                326
+Not sure                       192
+?                               15
 
 
-SOURCES_17 | In the past week, did you get news from None of these
-
-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
-
-No     3079
-Yes     136
-
-
-pp18_polactions_5 | In the last 6 months have you, posted about politics on social media
+SOURCES_15 | In the past week, did you get news from YouTube
 
 *-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
 
-No     1973
-Yes    1187
-?        55
+No     2812
+Yes     403
 
 
-SOURCES_7 | In the past week, did you get news from News websites or apps
+turnout16 | Did you vote in the election on Tuesday, November 8, 2016?
 
 *-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
 
-No     1818
-Yes    1397
+Yes    3071
+No      142
+?         2
+
+
+favor_dtrump | donald trump, Please rate your feelings toward each of the people, terms, and organizations below: do you feel very favorable toward them, somewhat favorable, somewhat unfavorable, very unfavorable, or have you never heard of them? RANDOMIZE
+
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+Very unfavorable        1623
+Very favorable           975
+Somewhat favorable       446
+Somewhat unfavorable     138
+Don't know                27
+Never heard                6
+
+
+GENERATIONS | Please indicate the extent to which you agree with each of thefollowing statements. Generations of slavery and discrimination have created conditions that make it difficult for African Americans to work their way out of the lower class.
+
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+Strongly disagree             915
+Strongly agree                708
+Somewhat agree                687
+Somewhat disagree             527
+Neither agree nor disagree    321
+No opinion                     52
+?                               5
+
+
+JOBS | As you may know, Census projections show that by 2043 African Americans, Latinos, Asians, and other mixed racial and ethnic groups will together be a majority of the population. Thinking about the likely impact of this coming demographic change, how much do you agree or disagree with each of these statements? There will not be enough jobs for everybody.
+
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+Neither agree nor disagree    751
+Strongly disagree             706
+Somewhat disagree             680
+Somewhat agree                548
+Strongly agree                392
+Not sure                      119
+?                              19
+
+
+pid7_dems | Would you call yourself a strong Democrat or a not very strong Democrat?
+
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+?                           2009
+Strong Democrat              950
+Not very strong Democrat     256
+
+
+union_combined_5 | Yes, retired unionmember
+
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+No     2797
+Yes     418
 
 
 SOURCES_14 | In the past week, did you get news from Reddit
@@ -1870,30 +1887,13 @@ No     3106
 Yes     109
 
 
-AVR | Would you support or oppose a policy where all eligible US citizens would be automatically registered to vote (unless they opt out) when applying for licenses and other IDs at DMVs, Medicaid offices, healthcare exchanges and other public agencies?
+USR |  (coded up) Do you live in a rural, suburban, or urban area?
 
 *-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
 
-Strongly support              1385
-Strongly oppose                614
-Somewhat support               521
-Neither support nor oppose     316
-Somewhat oppose                273
-Not sure                        86
-?                               20
-
-
-senvote18_undecided | Even though you say you are undecided, if you had tochoose, would you say you lean more toward (Candidate A) or (Candidate B)?
-
-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
-
-?                                                      3158
-Undecided                                                28
-Lean Candidate's name (Democrat)                         10
-Lean Candidate's name (Republican)                       10
-Lean Other candidate                                      3
-Lean Candidate's name (2nd Democrat, if applicable)       2
-I would not vote                                          2
-Lean Candidate's name (Independent, if applicable)        2
+Suburban    1739
+Rural        806
+Urban        591
+?             79
 
 
