@@ -1117,6 +1117,14 @@
             "50-64",
             "65+"
         ],
+        "agree_numbs": {
+            "Don't know": 6,
+            "Neither agree nor disagree": 3,
+            "Somewhat agree": 2,
+            "Somewhat disagree": 4,
+            "Strongly agree": 1,
+            "Strongly disagree": 5
+        },
         "agree_order": [
             "Strongly agree",
             "Somewhat agree",

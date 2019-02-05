@@ -2010,6 +2010,14 @@ metadata_dict = {
             "Somewhat disagree": "Negative",
             "Strongly disagree": "Negative",
         },
+        "agree_numbs": {
+            "Strongly agree": 1,
+            "Somewhat agree": 2,
+            "Neither agree nor disagree": 3,
+            "Somewhat disagree": 4,
+            "Strongly disagree": 5,
+            "Don't know": 6,
+        },
         "state_dict": {
             "Alaska": "AK",
             "Alabama": "AL",
