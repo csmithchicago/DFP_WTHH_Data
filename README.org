@@ -1,3 +1,10 @@
 * DFP WTHH Polling Data
 
 This is some of my work exploring the data released by Data for Progress on the 2018 midterm elections.
+* Work Still in Progress
+
+
+#+CAPTION: Superman and a galaxy cluster
+#+NAME: fig.super
+[[file:survey_weights.png]]
+
