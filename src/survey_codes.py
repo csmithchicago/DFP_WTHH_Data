@@ -317,7 +317,7 @@ metadata_dict = {
     },
     "favor_metoo": {
         "question": (
-            "\#metoo, Please rate your feelings toward each of the people, terms, "
+            r"\#metoo, Please rate your feelings toward each of the people, terms, "
             "and organizations below: do you feel very favorable toward "
             "them, somewhat favorable, somewhat unfavorable, very "
             "unfavorable, or have you never heard of them? RANDOMIZE"
